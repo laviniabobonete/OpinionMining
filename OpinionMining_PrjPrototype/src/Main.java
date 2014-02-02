@@ -24,13 +24,5 @@ public class Main {
             review.extractResults();
             review.printResults();
         }
-
-//        ReviewExtraction nexusReview = new ReviewExtraction("nexus4.txt");
-//        nexusReview.extractResults();
-//        nexusReview.printResults();
-//
-//        ReviewExtraction samsungReview = new ReviewExtraction("samsungS4.txt");
-//        samsungReview.extractResults();
-//        samsungReview.printResults();
     }
 }
