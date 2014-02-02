@@ -1,0 +1,77 @@
+--------------------------- Keywords and Scores --------------------------
+battery life : OBJECTIVE
+phone screams : OBJECTIVE
+USB Hosting : OBJECTIVE
+Samsung Galaxy Nexus : OBJECTIVE
+LTE bands : OBJECTIVE
+Galaxy Nexus : OBJECTIVE
+removable storage device : POSITIVE
+BOYD Nexus : OBJECTIVE
+Google Now function : OBJECTIVE
+quality phone : POSITIVE
+stock Google Dalvik : NEGATIVE
+pure Android experience : POSITIVE
+stock Android : OBJECTIVE
+recent Nexus devices : POSITIVE
+high end phone : OBJECTIVE
+heavy camera user : OBJECTIVE
+Nexus line : OBJECTIVE
+Download Google Voice : OBJECTIVE
+Android Honeycomb : OBJECTIVE
+Android verse Apple : OBJECTIVE
+Android phones : OBJECTIVE
+MicroSD slot : OBJECTIVE
+GREAT video recording : POSITIVE
+unlocked phone : NEGATIVE
+generation Nexus : OBJECTIVE
+S800 Pro : OBJECTIVE
+specific Nexus : OBJECTIVE
+panel.The phone : OBJECTIVE
+always-on Google search : OBJECTIVE
+Android OS : OBJECTIVE
+subsidy recovery fees : OBJECTIVE
+Google phone : OBJECTIVE
+Nexus devices : OBJECTIVE
+Google account : OBJECTIVE
+weak LTE signal : OBJECTIVE
+Nexus Media Importer : OBJECTIVE
+USB Hosting OTG : OBJECTIVE
+nearly complete customization : POSITIVE
+long time Nexus : OBJECTIVE
+GB Sandisk NAND : OBJECTIVE
+lengthy Nexus : OBJECTIVE
+Nexus : OBJECTIVE
+USB device : OBJECTIVE
+Google : OBJECTIVE
+device fee : OBJECTIVE
+Android Kit Kat : OBJECTIVE
+pure Google experience : OBJECTIVE
+phone : OBJECTIVE
+Nexus 4.Screen : OBJECTIVE
+best Android phone : POSITIVE
+--------------------------- Review results --------------------------
+phone
+	phone screams : OBJECTIVE
+	quality phone : POSITIVE
+	high end phone : OBJECTIVE
+	unlocked phone : NEGATIVE
+	panel.The phone : OBJECTIVE
+	Google phone : OBJECTIVE
+	phone : OBJECTIVE
+	best Android phone : POSITIVE
+search
+	always-on Google search : OBJECTIVE
+battery
+	battery life : OBJECTIVE
+video
+	GREAT video recording : POSITIVE
+camera
+	heavy camera user : OBJECTIVE
+device
+	removable storage device : POSITIVE
+	USB device : OBJECTIVE
+	device fee : OBJECTIVE
+user
+	heavy camera user : OBJECTIVE
+storage
+	removable storage device : POSITIVE

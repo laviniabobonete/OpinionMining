@@ -1,0 +1,92 @@
+--------------------------- Keywords and Scores --------------------------
+best Samsung handset : POSITIVE
+GS4 reign supreme : POSITIVE
+n't seem to do much good if you : POSITIVE
+Samsung Music : POSITIVE
+screen : OBJECTIVE
+GS4 units : OBJECTIVE
+older Samsung device : POSITIVE
+Samsung Galaxy : OBJECTIVE
+time : OBJECTIVE
+HTC : OBJECTIVE
+large number : OBJECTIVE
+GS3 : OBJECTIVE
+flagship Galaxy device : OBJECTIVE
+OEM Android devices : OBJECTIVE
+Samsung Video apps : OBJECTIVE
+Lock screen widgets : OBJECTIVE
+early-2013 flagship phone : OBJECTIVE
+1080p Super AMOLED : OBJECTIVE
+Samsung : OBJECTIVE
+2.1-megapixel front-facing camera : OBJECTIVE
+Optimus G Pro : OBJECTIVE
+5-inch GS4 : OBJECTIVE
+Air View : OBJECTIVE
+fabulous camera features : POSITIVE
+little smartphone series : NEGATIVE
+Samsung advertises : OBJECTIVE
+GS4 : OBJECTIVE
+Daydream screen saver : NEGATIVE
+GS4 zoom : OBJECTIVE
+new camera modes : OBJECTIVE
+older Samsung phones : POSITIVE
+GS4 launches : OBJECTIVE
+unbranded GS4 : NEGATIVE
+wow factor.The feature : POSITIVE
+GS4 rear camera : OBJECTIVE
+great camera make : POSITIVE
+GS4 launch event : OBJECTIVE
+new software features : OBJECTIVE
+Super AMOLED screen : POSITIVE
+it.The GS4 : OBJECTIVE
+vertical screen space : POSITIVE
+Samsung phone camera : OBJECTIVE
+Group Play : OBJECTIVE
+new features Samsung : OBJECTIVE
+highly touted GS4 : POSITIVE
+feature Samsung : OBJECTIVE
+best Samsung device : POSITIVE
+partnership Samsung : OBJECTIVE
+mode we ll discuss is Animated Photo . : POSITIVE
+run-of-the-mill phone video : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	early-2013 flagship phone : OBJECTIVE
+	Samsung phone camera : OBJECTIVE
+	run-of-the-mill phone video : OBJECTIVE
+amoled
+	1080p Super AMOLED : OBJECTIVE
+	Super AMOLED screen : POSITIVE
+software
+	new software features : OBJECTIVE
+features
+	fabulous camera features : POSITIVE
+	new software features : OBJECTIVE
+	new features Samsung : OBJECTIVE
+feature
+	wow factor.The feature : POSITIVE
+	feature Samsung : OBJECTIVE
+video
+	Samsung Video apps : OBJECTIVE
+	run-of-the-mill phone video : OBJECTIVE
+music
+	Samsung Music : POSITIVE
+screen
+	screen : OBJECTIVE
+	Lock screen widgets : OBJECTIVE
+	Daydream screen saver : NEGATIVE
+	Super AMOLED screen : POSITIVE
+	vertical screen space : POSITIVE
+camera
+	2.1-megapixel front-facing camera : OBJECTIVE
+	fabulous camera features : POSITIVE
+	new camera modes : OBJECTIVE
+	GS4 rear camera : OBJECTIVE
+	great camera make : POSITIVE
+	Samsung phone camera : OBJECTIVE
+photo
+	mode we ll discuss is Animated Photo . : POSITIVE
+device
+	older Samsung device : POSITIVE
+	flagship Galaxy device : OBJECTIVE
+	best Samsung device : POSITIVE
