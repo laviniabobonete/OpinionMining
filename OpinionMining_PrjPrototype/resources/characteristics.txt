@@ -30,3 +30,16 @@ search
 photo
 photos
 support
+hardware
+wifi
+phone
+music
+feature
+features
+device
+amoled
+keyboard
+notification
+scroll
+button
+

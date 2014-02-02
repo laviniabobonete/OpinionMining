@@ -1,0 +1,76 @@
+--------------------------- Keywords and Scores --------------------------
+famous Nexus logo : POSITIVE
+standard notifications menu : OBJECTIVE
+wireless display standard : OBJECTIVE
+Android developers : OBJECTIVE
+latest Android flagship : OBJECTIVE
+Android devices : OBJECTIVE
+Nexus line : OBJECTIVE
+Samsung Galaxy Nexus : OBJECTIVE
+battery life : OBJECTIVE
+HD IPS PLUS : POSITIVE
+Jelly Bean : OBJECTIVE
+Snapdragon S4 Pro : OBJECTIVE
+Stateside Nexus fans : OBJECTIVE
+absolute best components : POSITIVE
+True HD IPS : POSITIVE
+new version number : OBJECTIVE
+Samsung-crafted Nexus : OBJECTIVE
+LG Optimus : OBJECTIVE
+LG-made Nexus : OBJECTIVE
+tethered display sharing : POSITIVE
+fresh Nexus : OBJECTIVE
+Quick Settings menu : OBJECTIVE
+Nexus tablets : OBJECTIVE
+inaugural Nexus : OBJECTIVE
+multiple Nexus : OBJECTIVE
+aforementioned LG flagship : OBJECTIVE
+Nexus lineup.The camcorder : OBJECTIVE
+new dessert-themed codename : OBJECTIVE
+HTC-made Nexus : OBJECTIVE
+Nexus 4.Aside : OBJECTIVE
+Nexus devices : OBJECTIVE
+attractively priced devices : POSITIVE
+video rundown test : OBJECTIVE
+lock screen : OBJECTIVE
+Nexus 4.We : OBJECTIVE
+new features : OBJECTIVE
+Galaxy Nexus : OBJECTIVE
+Nexus lineup : OBJECTIVE
+quad-core Snapdragon S4 : OBJECTIVE
+stock Android experience : OBJECTIVE
+AMOLED HD screen : OBJECTIVE
+S4 Pro chipset : OBJECTIVE
+S4 Pro processor : OBJECTIVE
+Nexus quad-core smartphone : OBJECTIVE
+new Quick Settings : OBJECTIVE
+Android : OBJECTIVE
+Nexus : OBJECTIVE
+new quad-core HD : POSITIVE
+scratch-resistant glass : NEGATIVE
+4.7-inch True HD : POSITIVE
+--------------------------- Review results --------------------------
+settings
+	Quick Settings menu : OBJECTIVE
+	new Quick Settings : OBJECTIVE
+amoled
+	AMOLED HD screen : OBJECTIVE
+battery
+	battery life : OBJECTIVE
+features
+	new features : OBJECTIVE
+video
+	video rundown test : OBJECTIVE
+screen
+	lock screen : OBJECTIVE
+	AMOLED HD screen : OBJECTIVE
+menu
+	standard notifications menu : OBJECTIVE
+	Quick Settings menu : OBJECTIVE
+display
+	wireless display standard : OBJECTIVE
+	tethered display sharing : POSITIVE
+core
+	quad-core Snapdragon S4 : OBJECTIVE
+	Nexus quad-core smartphone : OBJECTIVE
+	new quad-core HD : POSITIVE
