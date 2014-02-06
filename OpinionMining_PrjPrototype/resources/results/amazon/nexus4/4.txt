@@ -1,0 +1,293 @@
+--------------------------- Keywords and Scores --------------------------
+coverage : OBJECTIVE
+Bluetooth ones : OBJECTIVE
+video sound capture : POSITIVE
+legitimate question : OBJECTIVE
+USA. : OBJECTIVE
+total on-screen time : POSITIVE
+shock protection : NEGATIVE
+YouTube videos : OBJECTIVE
+applications : OBJECTIVE
+important thing : POSITIVE
+review : OBJECTIVE
+make : POSITIVE
+knowledge : OBJECTIVE
+micro-USB OTG : OBJECTIVE
+T-mobile Unlimited Plan : NEGATIVE
+performance : OBJECTIVE
+AT&T : OBJECTIVE
+phone calls : OBJECTIVE
+HSPA+ data plan : OBJECTIVE
+systems : OBJECTIVE
+expeditious recording : POSITIVE
+mind : OBJECTIVE
+giggles : OBJECTIVE
+thumb drives : OBJECTIVE
+carrier restrictions : OBJECTIVE
+gaming controllers : OBJECTIVE
+Video capture : OBJECTIVE
+large repertoire : OBJECTIVE
+slick feeling : OBJECTIVE
+batteries drain : OBJECTIVE
+snappiest possible Android : POSITIVE
+instance : POSITIVE
+2GB RAM : OBJECTIVE
+demand.Another meaningful downside : POSITIVE
+Android smartphone users : OBJECTIVE
+life span : POSITIVE
+current scope : OBJECTIVE
+replacements : OBJECTIVE
+purposes : OBJECTIVE
+Android : OBJECTIVE
+features : OBJECTIVE
+response : OBJECTIVE
+volume adjustment : POSITIVE
+whichever version : OBJECTIVE
+Thanks : OBJECTIVE
+subsequent updates : OBJECTIVE
+Android smartphone manufacturers : OBJECTIVE
+various benchmarks : OBJECTIVE
+prices : OBJECTIVE
+silly for-profit legislation : OBJECTIVE
+market : OBJECTIVE
+moderate user : OBJECTIVE
+reason : OBJECTIVE
+stationary recording : NEGATIVE
+8GB version : OBJECTIVE
+phone : OBJECTIVE
+unfavorable scenarios : NEGATIVE
+information : OBJECTIVE
+Wi-Fi reception : POSITIVE
+difficulty level : NEGATIVE
+long term evolution : OBJECTIVE
+new unit : OBJECTIVE
+unlocked phones : NEGATIVE
+Google representative : OBJECTIVE
+fly : NEGATIVE
+inferior hardware : NEGATIVE
+major downside : POSITIVE
+data speeds : OBJECTIVE
+*wired* headsets : OBJECTIVE
+desktop computers : OBJECTIVE
+memory cards : OBJECTIVE
+newer batches : OBJECTIVE
+app store : OBJECTIVE
+latest updates : OBJECTIVE
+great extent : POSITIVE
+screen protectors : OBJECTIVE
+long way : OBJECTIVE
+glassy nature : POSITIVE
+ranks : OBJECTIVE
+fingerprints : OBJECTIVE
+highest volume : OBJECTIVE
+buck : OBJECTIVE
+LTE speedtest : OBJECTIVE
+battery power management : OBJECTIVE
+wired headsets : OBJECTIVE
+accessible LTE support : POSITIVE
+smartphone battery life : OBJECTIVE
+entire waking : OBJECTIVE
+throttling : OBJECTIVE
+dual band HSPA+ : OBJECTIVE
+parts : OBJECTIVE
+caveats : OBJECTIVE
+potential downside : OBJECTIVE
+SD cards : OBJECTIVE
+purchasers : OBJECTIVE
+fastest method : POSITIVE
+people : OBJECTIVE
+deep sleep : OBJECTIVE
+drains : OBJECTIVE
+feature : OBJECTIVE
+roughly 1-2 megabytes : NEGATIVE
+heat : OBJECTIVE
+boils : OBJECTIVE
+things : OBJECTIVE
+current generation : OBJECTIVE
+course : OBJECTIVE
+greater chance : POSITIVE
+megabits : OBJECTIVE
+opinion : NEGATIVE
+video chatting : OBJECTIVE
+arrogance : OBJECTIVE
+hobbyist : OBJECTIVE
+results : OBJECTIVE
+microphone gain issue : POSITIVE
+grace : POSITIVE
+oleophobic coating : NEGATIVE
+Amazon : OBJECTIVE
+phone.A little bit : NEGATIVE
+screen quality : POSITIVE
+pinch : NEGATIVE
+Android developer : OBJECTIVE
+e-mail : POSITIVE
+reviewers : OBJECTIVE
+microphones : OBJECTIVE
+Internet access : OBJECTIVE
+hacker-friendly device : OBJECTIVE
+portable work : POSITIVE
+statistics : OBJECTIVE
+durability : OBJECTIVE
+greater freedom : POSITIVE
+play stations : OBJECTIVE
+cities : OBJECTIVE
+phone meets : OBJECTIVE
+battery life : OBJECTIVE
+areas : OBJECTIVE
+Spotify/MOG music : POSITIVE
+you.Update : OBJECTIVE
+hard mode.As : NEGATIVE
+16GB max : OBJECTIVE
+subject : OBJECTIVE
+4G LTE : OBJECTIVE
+consistency : OBJECTIVE
+issues : OBJECTIVE
+photo quality : POSITIVE
+snappiness : OBJECTIVE
+actuality : OBJECTIVE
+smart phones : NEGATIVE
+style : OBJECTIVE
+writing : OBJECTIVE
+single band : OBJECTIVE
+iPhone : OBJECTIVE
+terms : OBJECTIVE
+archaic technology : NEGATIVE
+mistake : NEGATIVE
+somewhat less user : NEGATIVE
+conversational clarity : POSITIVE
+ambivalence : OBJECTIVE
+Nexus : OBJECTIVE
+OTG support : OBJECTIVE
+smartphone care : OBJECTIVE
+components : OBJECTIVE
+laptop quality : POSITIVE
+desktop LCD : OBJECTIVE
+supply : OBJECTIVE
+4G LTE service : OBJECTIVE
+research : OBJECTIVE
+tempting deals : POSITIVE
+experience : OBJECTIVE
+extremely significant issue : POSITIVE
+Android OS : OBJECTIVE
+gorilla glass : OBJECTIVE
+Google play : OBJECTIVE
+budget-conscious buyers : OBJECTIVE
+screen protector : OBJECTIVE
+microphone quality : POSITIVE
+extreme mobile tech : OBJECTIVE
+LG/Google : OBJECTIVE
+Samsung variants : OBJECTIVE
+Touch Wiz : OBJECTIVE
+GPU intensive tasks : OBJECTIVE
+sort : OBJECTIVE
+video files : OBJECTIVE
+screen brightness : POSITIVE
+near-seamless access : NEGATIVE
+general smartphone consumer : OBJECTIVE
+great uses : POSITIVE
+general lack : OBJECTIVE
+4G LTE.Overall : OBJECTIVE
+CPU : OBJECTIVE
+line processor : OBJECTIVE
+bandwagon : OBJECTIVE
+battery life.Another issue : OBJECTIVE
+realm : OBJECTIVE
+awareness : POSITIVE
+battery.The : OBJECTIVE
+best bang : POSITIVE
+Android updates : OBJECTIVE
+vast selection : OBJECTIVE
+wear : OBJECTIVE
+Android phones : OBJECTIVE
+16GB version : OBJECTIVE
+Google search : OBJECTIVE
+Android competition : OBJECTIVE
+great concern : POSITIVE
+absolute bleeding edge : OBJECTIVE
+good news : POSITIVE
+kits : OBJECTIVE
+background programs : POSITIVE
+oleophobic coating replacement : NEGATIVE
+obvious expense : POSITIVE
+especially ones : OBJECTIVE
+fine tuning : OBJECTIVE
+mobile tech enthusiasts : OBJECTIVE
+general consumer expectations : OBJECTIVE
+durable protective case : OBJECTIVE
+demo : POSITIVE
+RMA request : OBJECTIVE
+USB dongles : OBJECTIVE
+appropriate conversion cables : OBJECTIVE
+phones.UPDATE : OBJECTIVE
+software problem : NEGATIVE
+heatsink : OBJECTIVE
+select group : POSITIVE
+certain devices : OBJECTIVE
+nonsense : POSITIVE
+Verizon : OBJECTIVE
+heart : OBJECTIVE
+stock : OBJECTIVE
+expansion slot : OBJECTIVE
+wireless phone service : OBJECTIVE
+FCC licensing : OBJECTIVE
+data plans : OBJECTIVE
+slickness : OBJECTIVE
+smartphones : OBJECTIVE
+long time : OBJECTIVE
+scratches : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	phone calls : OBJECTIVE
+	phone : OBJECTIVE
+	phone meets : OBJECTIVE
+	wireless phone service : OBJECTIVE
+users
+	Android smartphone users : OBJECTIVE
+hardware
+	inferior hardware : NEGATIVE
+software
+	software problem : NEGATIVE
+search
+	Google search : OBJECTIVE
+performance
+	performance : OBJECTIVE
+battery
+	battery power management : OBJECTIVE
+	smartphone battery life : OBJECTIVE
+	battery life : OBJECTIVE
+	battery life.Another issue : OBJECTIVE
+features
+	features : OBJECTIVE
+feature
+	feature : OBJECTIVE
+video
+	video sound capture : POSITIVE
+	Video capture : OBJECTIVE
+	video chatting : OBJECTIVE
+	video files : OBJECTIVE
+gpu
+	GPU intensive tasks : OBJECTIVE
+music
+	Spotify/MOG music : POSITIVE
+screen
+	total on-screen time : POSITIVE
+	screen protectors : OBJECTIVE
+	screen quality : POSITIVE
+	screen protector : OBJECTIVE
+	screen brightness : POSITIVE
+support
+	accessible LTE support : POSITIVE
+	OTG support : OBJECTIVE
+cpu
+	CPU : OBJECTIVE
+photo
+	photo quality : POSITIVE
+device
+	hacker-friendly device : OBJECTIVE
+user
+	moderate user : OBJECTIVE
+	somewhat less user : NEGATIVE
+smart
+	smart phones : NEGATIVE
+--------------------------- Overall --------------------------
+POSITIVE

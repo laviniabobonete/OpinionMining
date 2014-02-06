@@ -1,0 +1,94 @@
+I've been a long time Nexus brand user, owning the first generation Nexus 7 and Nexus 4. I also have an iPad 3 and an iPod Touch 4th generation. I wrote a lengthy Nexus 7 review before; here is my lengthy Nexus 5 review updated after over a month of straight usage. It should cover the vast majority of topics on the device. Let's get started on what possibly is the best high end phone deal in America.
+
+(1) Hardware:
+
+Personally, in my opinion, high to medium end devices from reputable brands have reached the point where most people won't be able to tell the difference or the difference won't be something they regularly use. That said, I'm still going to cover it, if you're not interested in the nerd talk about hardware, then all you need to know is that the phone is capable hardware wise for demanding users and honestly overkill for average users. Skip this section of my review and head on down to the camera portion.
+
+The device is built on a Qualcomm S800 Pro processor. Clocked at 2.2 GHz quadcore processor, the phone screams on speed. I'm not a fan of mobile benchmarks due to their inherent problems of actually measuring what they claim, but benchmarks all put the Nexus 5 at the moment in the top end of performance. Compared to my Nexus 7's Tegra 3, the Nexus 5 has a fighter jet engine compared to the first generation Nexus 7's turboprop engine.
+There's also a Hynix 2 GB RAM chip running at DDR3 1600 Mhz, and either a 16 GB or 32 GB Sandisk NAND memory chip depending which model you bought. Google is charging $50 more for the 32 GB device. That's about a 625% markup over wholesale NAND prices. Take that as you will.
+
+There are Bluetooth, NFC, GPS and unlike the Nexus 4, a slim-port compatibility, thus letting you connect the phone to a monitor or television screen. LG/Google kept the wireless charging from the Nexus 4, to which the wireless charger has to be purchased separately.
+
+The phone comes with an Adreno 330 graphics chip. I'm not a big mobile gamer, but this per the professional reviews and FPS benchmarks will handle every game out for Android. For non-gamers, the Adreno 330 is overkill.
+
+Microphone and talk clarity are on par with Nexus 4, meaning fine. Speaker seems to have more noise at higher volumes. Also, speaker is mono despite there being two grills at the bottom. One grill is for the microphone.
+
+Connects via standard USB, where the device itself has a microUSB connection. Plugging the device into your computer brings it up as another removable storage device where you can simply drop and drag files into folders. Easy file movement plus standard USB makes the device very simple to use and standard charging conventions make it easy to find chargers around your house and office. Sometimes the device goes wonky on USB connection (was a Nexus 4 issue as well), so just go into settings and storage, click on the settings (3 vertical boxes) and change the connection to PTP or MPT and the phone will reappear properly.
+
+Like all recent Nexus devices, no MicroSD slot and no removable battery. MicroSD slot is partially alleviated now that USB OTG works. See my "other" section for more details.
+
+You can find these specific parts on iFixit's tear down which gave it a solid 8/10 for user repair. For the low price of $349/$399, there is no other phone with this quality hardware that for the price.
+
+Right now, due to shortages in supply, many people are scalping the phones for profit. If you can wait, the phone will ship between 2 and 4 weeks and if the Nexus 4 timeline tells us anything, quickly reach the point where it's under a week. My phone took a little under 3 weeks to deliver from ordering it on the 1st of November.
+
+(2) Camera:
+
+The back camera is still an 8 megapixel and front is 1.3 megapixel, same as the Nexus 4. Low light has improved considerable and HDR+ alleviates many of lighting problems. HDR is a software/hardware combination that takes three photos, one underexposed, one overexposed and one regular and the software combines them to even out the lighting issues to produce the best possible shot. Graininess has been reduced as well. Google keeps the same minimal interface for the camera with the select and drag method for changing options.
+
+Image stabilization is so-so and the camera can be slow to focus at times. The Nexus 5 camera is an improvement over the Nexus 4, but a Lumia this is not. Google released updates to the Android OS that had specific Nexus 5 camera fixes. The camera's improved, but it's still relatively slow at focusing. However, image quality has improved considerably as have night shots. The only real criticism now is that the camera is slow to focus.
+
+(3) Android 4.4 - Operating System:
+
+Google's latest and greatest is on display here. Android 4.4, otherwise known as Kitkat comes pre-installed on the phone. There are some changes from Android 4.3 Jelly bean. Like all Nexus devices, operating system updates are done over the air via Google. No waiting on device manufacturers or carriers.
+The launcher has changed and on the Nexus 5 (and it's exclusive to the Nexus 5), and widgets are now removed from the app screen and are accessed by pressing and holding down on a home screen.
+
+Icon sizes have been enlarged in the app library, and formatting has been tweaked.
+Android Run Time (ART) is now available as opposed to the stock Google Dalvik compiler. Allegedly, ART nets a handful more hours out of the device per some reviews, but I haven't noticed any difference. In theory, ART should speed up the device, but with the S800 Pro already blazing fast, it's questionable if anyone will notice, your mileage will vary. Also, some apps are broken under ART.
+
+Google has prominently placed Google search on the top of the phone and included the new function of simply talking to your phone to have it fulfill requests. Simply say "Ok Google" and the Google Now function loads up where you can ask questions or request information simply by talking to it. Phone has to be unlocked for it to work as opposed to the Moto X which I believe will work without unlocking.
+
+Hangouts has merged with text messaging for a combined app. As with all Android phones, you can download another app and make it your default over Hangouts. Currently the Hangouts change in my opinion was a mistake. Group texting via SMS has problems with sending, the app prioritizes sending to Gmail accounts over SMS and you can't mix SMS and Gmail group chats together. The separation in 4.3 was a better system.
+
+Google kept the Sywpe like typing option on its default keyboard (drag your fingers between keys rather than typing) and notification center appears to be the same from 4.3. Colors however for notification went from blue to white. Also the notification flashing light is still there from the Nexus 4. It's sort of like the Blackberry's red flashing LED, but at the bottom.
+
+Outside of the changes from 4.3, stock Android 4.3, stock meaning there's no "skin" over it such as Touchwiz or HTC's Sensation, runs extremely fast. Apps load instantly, everything is extremely responsive. This is not Android Honeycomb that was an unresponsive lag filled mess. It is however, less intuitive than iOS 6/7. Android verse Apple has always been like this and its personal preference. That said, if you're in to nearly complete customization, widgets, lock screen information and generally busting out of a walled garden to have your phone do what you want it to do, this is your cup of tea.
+
+(4) Battery Life:
+
+The battery life on the Nexus 5 is better than the Nexus 4. A slight boost of 200 mAh to 2,300 from 2,100 mAh is minor and it appears the gains are from the operating system primarily. Some user are reporting with ART, they can last a full day as opposed to 16 to 17 hours on Dalvik, some users are reporting the same battery life.
+
+After more than a month of the usage on the device, I find that battery life is generally superior to the Nexus 4 and going a whole day is not a problem. This isn't a Note 3 that will last all day gaming. Mileage will vary depending on your behavior.
+
+The biggest killer of battery aside from constant gaming is using LTE in an area with weak LTE signal. The phone (like all phones) will eat up huge amounts of battery trying to maintain the bad signal. Sometimes it will drain 20% of my battery in an hour or two on standby. Switching to 3G as the primary network reduces standby usage to a few percent over two or three hours.
+
+(5) Build & Looks:
+
+The phone comes in two colors, black and white. Note that the white version does not extend the white to the front; it's just the back panel.
+The phone is fairly light and considerably lighter than the Nexus 4. It is still a black rectangle like most smartphones. LG/Google have forgone the glass backing from the Nexus 4. This should significantly reduce real damage as the soft plastic backing is far less susceptible to shattering like glass. The phone is a bit thinner than the Nexus 4.
+
+Screen is 4.95 inches, with confirmed Gorilla Glass 3. The phone is using IPS which gives better clarity and color than the Nexus 4. Resolution is set at 1,920-by-1,080 pixel for a 445 pixel density (PPI). I'd still use a screen guard as the face drop test reveals that Gorilla Glass 3 is good for preventing scratches, but so-so to horrendously bad on impact resistance.
+
+Side bezels are very minimal, but the top and bottom bezels are still large. Overall, it's not going to wow people upon first look, but most of us are here for performance and pure Android, what excites us is now how a phone looks, but what we can do with it.
+
+(6) LTE & Carrier Support:
+
+Google is selling these phones completely unlocked, meaning that you can go to any carrier that supports its bands and it should work.
+Unlike the Nexus 4, the Nexus 5 is LTE enabled. This was a huge reason for me to get the Nexus 5 as I'm paying for T-Mobile's LTE on the simple plan but I wasn't able to access it. My local HSPA+ was topping out around 11 Mbp/s in the heart of Honolulu to a paltry 4 Mbp/s in my house away from the heart of the city. LTE has pushed urban speed to over 30 Mbp/s (per my last test) and my house to over 9 Mbp/s. Your mileage will of course vary.
+
+Nexus 5's LTE will work with bands on T-Mobile, Sprint and AT&T. Verizon has some LTE bands that the Nexus 5 doesn't support and Verizon and Google have some ideological issues that are preventing them from working together on the Nexus line. T-Mobile is selling the device non-subsidized at a $100 markup financed over 24 months at 0%. Sprint is selling the phone subsidized at $49 but you'll pay it all back and more through subsidy recovery fees built into the monthly bill. AT&T isn't selling the device but will support BOYD Nexus 5. Be aware though, unless you're on AT&T's prepaid Aio service, you're still going to be paying for subsidy recovery fees even though you didn't get a subsidy from AT&T.
+
+A lot of people don't seem to understand that the amount they pay for the phone on day one, usually $199 is not the total price they pay for the phone. That's the down payment. AT&T/Sprint/Verizon and previously T-Mobile recover their subsidy via the fees they charge in their monthly. T-Mobile and other non-contract carriers have broken out of this model and give a dosage of transparency to monthly billings as to what is service fee and what is subsidy recovery. If you buy an unlocked phone from Google and take it to T-Mobile, you will not be charged a device fee. If you take it to Verizon/AT&T/Sprint outside of their prepaid options, you will be charged a device fee even though you did not get a subsidy. This will vastly increase the total price you pay for your phone. Keep that in mind.
+
+The best deal for this phone if you don't talk much is T-Mobile's $30 a month plan for 100 minutes, unlimited text and 5 GB of LTE, unlimited 3G. Download Google Voice for data calling if you need more talk time. For two years of service, that's $1,069 in total monthly and phone bills. That's less than the cost of 10 months of Verizon.
+
+If you're looking at other plans, Apple has done an extremely fantastic job of comparing AT&T, Sprint, Verizon and T-Mobile's myriad plans into a single nice webpage. Google "iPhone Plans Comparison" for the best simple comparison of American big carrier plans. Apple labels these "iPhone Plans" but they are generic smartphone plans that anyone on any compatible device can purchase.
+
+(7) Other:
+
+Unlike the Nexus 4, USB Hosting OTG works. I personally don't find this that important, considering that OTG is a hassle on a device that's constantly on the move, but it is a big change from the Nexus 4 which didn't apply sufficient voltage to power USB Hosting. If you're wondering what USB Hosting/OTG is, USB Hosting and "On The Go" lets a phone or tablet to plug in a USB device in and let the device via the right program access the storage on the USB device. I'm currently using the Nexus Media Importer (as I previously bought that for the Nexus 7) as it lets me do this without rooting. I was never a big memory user on my Nexus 4, but I know some people are. Google "Meenova" for a more compact design that will let you access MicroSD cards on your Nexus 5. See my picture in the photo gallery.
+
+When I first started the phone up, Google play strangely tried to download and install every app I'd previous bought. What gives? I had to manually stop the install of certain apps.
+
+Sound quality via headphones is solid, but depends also on the quality of your headphones/earphones. Sound on the speaker is relatively low.
+
+Rooting is available now and there are a few ROMs for the Nexus 5 if you wish to play around.
+
+Accessories are flooding Amazon as well as eBay for relatively affordable prices. I'm using the [AIR CUSHION] Spigen Google Nexus 5 Case ULTRA HYBRID [Black] [1 FREE Premium Japanese Screen Protector + 2 FREE Graphics] Anti-Scratch Bumper Case with Clear Back Panel for Nexus 5 - ECO-Friendly Package - Black (SGP10609), but I'm not entirely happy as the flush buttons make it hard to use one handed as opposed to my RINGKE FUSION for Google Nexus 4 Best Selling Shock Absorption Bumper + Anti Scratch Clear Back Premium Hybrid Case [Eco/DIY Pkg.][BLACK].
+
+Personally, I do love Android. I can simply turn my phone on, look at my lock screen at the Dashclock Widget and see how many texts I have, emails, weather notifications Facebook notifications and so on without having to unlock my phone. I can also turn on GPS, silence my phone, the flash light on and other functions from my lock screen too. The Nexus 5 gives me a great affordable option.
+
+(8) Conclusion:
+
+The Nexus 5 has some drawbacks, adequate camera, no MicroSD slot, no removable battery and lacking some of Verizon's LTE bands. It does provide a blazing fast processor, roaring graphics chip, an extremely stock version of Android, thin and light design for a very affordable unlocked price. And it's Sprint capable. Android does take some time to learn, but it offers nearly complete customization. For $349 and a dose of willingness to learn, you can't go wrong here.
+
+TLDR: Blazing fast smartphone, okay camera, no bloatware, no Verizon, unlocked and just $349~399.

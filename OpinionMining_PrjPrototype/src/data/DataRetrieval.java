@@ -37,11 +37,10 @@ public class DataRetrieval {
      */
     public static String getData(String fileName) {
 
-        String filePath = DATA_RETRIEVAL_DIR_PATH + fileName;
         String data = "";
 
         try {
-            RandomAccessFile raf = new RandomAccessFile(filePath, "r");
+            RandomAccessFile raf = new RandomAccessFile(fileName, "r");
             String line = raf.readLine();
             while (line != null) {
                 data += line;

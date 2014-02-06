@@ -1,0 +1,342 @@
+--------------------------- Keywords and Scores --------------------------
+Nexus lineup : OBJECTIVE
+expensive phone : POSITIVE
+volume rocker : OBJECTIVE
+restaurants.Voice search : OBJECTIVE
+S4 Pro processor : OBJECTIVE
+natural sphere-like curvature : OBJECTIVE
+traditional hunt-and-peck method : POSITIVE
+access points : OBJECTIVE
+new series : OBJECTIVE
+best possible performance : POSITIVE
+Miracast-certified device : POSITIVE
+settings box : OBJECTIVE
+elegant-looking device : POSITIVE
+voice search experience : OBJECTIVE
+inaugural Nexus : OBJECTIVE
+lock screen : OBJECTIVE
+improved Jelly Bean : POSITIVE
+micro-USB / Slimport : OBJECTIVE
+new Quick Settings : OBJECTIVE
+LG device : OBJECTIVE
+Gorilla Glass : OBJECTIVE
+specific release date : OBJECTIVE
+top-notch features : OBJECTIVE
+nicest displays : OBJECTIVE
+hard time : OBJECTIVE
+4.7-inch True HD : POSITIVE
+tapered edge : POSITIVE
+fourth-generation offering : OBJECTIVE
+simply snapping images : POSITIVE
+significant design shifts : POSITIVE
+slightly from other 720p displays but we ve been : NEGATIVE
+Android firmware : OBJECTIVE
+recent times : POSITIVE
+8MP rear camera : OBJECTIVE
+stock Android experience : OBJECTIVE
+special edition : OBJECTIVE
+LTE compatibility : OBJECTIVE
+power-friendly Krait chip : OBJECTIVE
+True HD IPS : POSITIVE
+Miracast adapter : OBJECTIVE
+status bar : OBJECTIVE
+Galaxy Nexus.Lastly : OBJECTIVE
+details.A quick review : OBJECTIVE
+Quick Settings menu : OBJECTIVE
+swipe gesture : OBJECTIVE
+standard MHL : OBJECTIVE
+smartphone industry : OBJECTIVE
+similar concept : OBJECTIVE
+hotel confirmation email : POSITIVE
+completely different story : POSITIVE
+cheaper alternative : OBJECTIVE
+new features : OBJECTIVE
+dual-core Snapdragon S4 : OBJECTIVE
+Android manufacturers : OBJECTIVE
+speaker grille : OBJECTIVE
+way : OBJECTIVE
+right edges : OBJECTIVE
+paltry 5-megapixel sensor : NEGATIVE
+vanilla version : NEGATIVE
+crucial information : POSITIVE
+GSM / EDGE : OBJECTIVE
+review units : OBJECTIVE
+scratch-resistant glass : NEGATIVE
+graphically intensive game : OBJECTIVE
+standard suite : OBJECTIVE
+blood brothers : OBJECTIVE
+best value : POSITIVE
+HD panel : OBJECTIVE
+similar specs : OBJECTIVE
+LG Optimus : OBJECTIVE
+Photo Spots : NEGATIVE
+HD display : OBJECTIVE
+Nexus : OBJECTIVE
+RAZR HD : OBJECTIVE
+direct link : OBJECTIVE
+test results : OBJECTIVE
+HTC-made Nexus : OBJECTIVE
+better camera : POSITIVE
+Play Store.Google : OBJECTIVE
+Qi-capable charging pad : POSITIVE
+open app : NEGATIVE
+LED flash : OBJECTIVE
+search results : OBJECTIVE
+1.6GHz quad-core Exynos : OBJECTIVE
+better opportunities : POSITIVE
+Snapdragon S4 Pro : OBJECTIVE
+Movie sequels : OBJECTIVE
+latest Android flagship : OBJECTIVE
+camera app : OBJECTIVE
+improved set : POSITIVE
+real-world use tests : NEGATIVE
+critical role : OBJECTIVE
+Klipsch Image S4A : OBJECTIVE
+custom skins : POSITIVE
+coffee table.We briefly : OBJECTIVE
+normal pull notifications : NEGATIVE
+slightly choppy videos : NEGATIVE
+fresh Nexus : OBJECTIVE
+Nexus 4.We : OBJECTIVE
+settings button : OBJECTIVE
+exquisite devices : POSITIVE
+latest version : OBJECTIVE
+benchmark results : OBJECTIVE
+final pre-launch update : OBJECTIVE
+smartphone equivalent : OBJECTIVE
+RGB subpixel arrangement : OBJECTIVE
+neat camera mode : POSITIVE
+Optimus G. : OBJECTIVE
+flagship smartphone : OBJECTIVE
+pulse notification light : OBJECTIVE
+solid indicator : POSITIVE
+unlocked device : NEGATIVE
+LG-made Nexus : OBJECTIVE
+easy reach : POSITIVE
+price range : OBJECTIVE
+HD IPS PLUS : POSITIVE
+removable cover : POSITIVE
+standard video rundown : OBJECTIVE
+smartphone series : OBJECTIVE
+checkerboard-like decor : POSITIVE
+rare problem : NEGATIVE
+new role : OBJECTIVE
+Google Search app : OBJECTIVE
+aforementioned LG flagship : OBJECTIVE
+screen savers : OBJECTIVE
+virtual navigation : POSITIVE
+quad-core Snapdragon S4 : OBJECTIVE
+native support : POSITIVE
+similar problems : OBJECTIVE
+Nexus line : OBJECTIVE
+8-megapixel mobile cameras : OBJECTIVE
+difficult time : NEGATIVE
+Samsung Galaxy Nexus : OBJECTIVE
+rival phone : POSITIVE
+close look : OBJECTIVE
+jelly beans : OBJECTIVE
+low-light performance : OBJECTIVE
+Samsung-crafted Nexus : OBJECTIVE
+photo opps : OBJECTIVE
+battery life : OBJECTIVE
+Mbps bit rate : OBJECTIVE
+tiny particles : OBJECTIVE
+flash setting : OBJECTIVE
+Android devices : OBJECTIVE
+new insight : POSITIVE
+sleek curves : POSITIVE
+latest feeds : OBJECTIVE
+tethered display sharing : POSITIVE
+state-of-the-art silicon : POSITIVE
+Nexus tablets : OBJECTIVE
+virtual navigation keys : POSITIVE
+attractively priced devices : POSITIVE
+user experience : OBJECTIVE
+comparable build : POSITIVE
+anecdotal tests : OBJECTIVE
+pretty nice bang : POSITIVE
+real-world performance : NEGATIVE
+Galaxy Nexus.The performance : OBJECTIVE
+new things : OBJECTIVE
+latest series : OBJECTIVE
+incredible price : OBJECTIVE
+tile-like live wallpaper : OBJECTIVE
+thinner phone : OBJECTIVE
+new quad-core HD : POSITIVE
+current flagship : OBJECTIVE
+natural feel : OBJECTIVE
+incredibly affordable price : NEGATIVE
+WXGA resolution : OBJECTIVE
+S4 Pro chipset : OBJECTIVE
+hand-holding experience : POSITIVE
+Nexus 4.Aside : OBJECTIVE
+drastic changes : OBJECTIVE
+famous Nexus logo : POSITIVE
+subsequent version : OBJECTIVE
+tablet experience : OBJECTIVE
+2,100mAh battery : OBJECTIVE
+special adapter : OBJECTIVE
+similarly specced device : OBJECTIVE
+Android : OBJECTIVE
+Jelly Bean : OBJECTIVE
+headphone jack : OBJECTIVE
+relevant information : OBJECTIVE
+Galaxy Nexus : OBJECTIVE
+Samsung Galaxy Note : OBJECTIVE
+realistic blue hue : NEGATIVE
+HSPA+ device : OBJECTIVE
+right half : OBJECTIVE
+lock screen widgets : OBJECTIVE
+DC-HSPA+ 42Mbps speeds.The : OBJECTIVE
+best phone : POSITIVE
+Android developers : OBJECTIVE
+fraternal twins : OBJECTIVE
+top-of-the-line smartphone : OBJECTIVE
+competitors when it comes to color : POSITIVE
+review unit : OBJECTIVE
+build quality : POSITIVE
+multiple Nexus : OBJECTIVE
+new dessert-themed codename : OBJECTIVE
+LTE service : OBJECTIVE
+external speaker grille : OBJECTIVE
+mixed results : OBJECTIVE
+social media : OBJECTIVE
+Stateside Nexus fans : OBJECTIVE
+Corning-furnished glass : OBJECTIVE
+1.3-megapixel front-facing video : OBJECTIVE
+Play Store : OBJECTIVE
+AMOLED HD screen : OBJECTIVE
+Nexus quad-core smartphone : OBJECTIVE
+lower-right corner : OBJECTIVE
+greatest smartphone : POSITIVE
+local events : OBJECTIVE
+native widget support : POSITIVE
+Slimport adapter : OBJECTIVE
+wireless display standard : OBJECTIVE
+initial tests : OBJECTIVE
+veritable dreamboat : POSITIVE
+8-megapixel camera : OBJECTIVE
+virtual navigation buttons : POSITIVE
+Nexus lineup.The camcorder : OBJECTIVE
+absolute best components : POSITIVE
+standard PC : OBJECTIVE
+time : OBJECTIVE
+potential hazard : NEGATIVE
+midday sun : OBJECTIVE
+previous devices : OBJECTIVE
+visual punch : OBJECTIVE
+Huawei Ascend D1 : OBJECTIVE
+skewed results : OBJECTIVE
+extra place : OBJECTIVE
+present time : OBJECTIVE
+video rundown test : OBJECTIVE
+percent brightness : OBJECTIVE
+wireless charging standard : OBJECTIVE
+Nexus devices : OBJECTIVE
+Windows RT. : OBJECTIVE
+standard notifications menu : OBJECTIVE
+menu access : OBJECTIVE
+new era : OBJECTIVE
+comprehensive search : OBJECTIVE
+true HD quality : POSITIVE
+brief Amazon search : OBJECTIVE
+in-ear reference headphones : OBJECTIVE
+Windows Phone : OBJECTIVE
+standard set : OBJECTIVE
+original blockbuster : OBJECTIVE
+new version number : OBJECTIVE
+phone calls : OBJECTIVE
+private set : OBJECTIVE
+different members : POSITIVE
+Jelly Bean users : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	expensive phone : POSITIVE
+	rival phone : POSITIVE
+	thinner phone : OBJECTIVE
+	best phone : POSITIVE
+	Windows Phone : OBJECTIVE
+	phone calls : OBJECTIVE
+users
+	Jelly Bean users : OBJECTIVE
+settings
+	settings box : OBJECTIVE
+	new Quick Settings : OBJECTIVE
+	Quick Settings menu : OBJECTIVE
+	settings button : OBJECTIVE
+resolution
+	WXGA resolution : OBJECTIVE
+amoled
+	AMOLED HD screen : OBJECTIVE
+setting
+	flash setting : OBJECTIVE
+button
+	settings button : OBJECTIVE
+search
+	restaurants.Voice search : OBJECTIVE
+	voice search experience : OBJECTIVE
+	search results : OBJECTIVE
+	Google Search app : OBJECTIVE
+	comprehensive search : OBJECTIVE
+	brief Amazon search : OBJECTIVE
+performance
+	best possible performance : POSITIVE
+	low-light performance : OBJECTIVE
+	real-world performance : NEGATIVE
+	Galaxy Nexus.The performance : OBJECTIVE
+battery
+	battery life : OBJECTIVE
+	2,100mAh battery : OBJECTIVE
+features
+	top-notch features : OBJECTIVE
+	new features : OBJECTIVE
+notification
+	pulse notification light : OBJECTIVE
+widget
+	native widget support : POSITIVE
+video
+	standard video rundown : OBJECTIVE
+	1.3-megapixel front-facing video : OBJECTIVE
+	video rundown test : OBJECTIVE
+screen
+	lock screen : OBJECTIVE
+	screen savers : OBJECTIVE
+	lock screen widgets : OBJECTIVE
+	AMOLED HD screen : OBJECTIVE
+support
+	native support : POSITIVE
+	native widget support : POSITIVE
+menu
+	Quick Settings menu : OBJECTIVE
+	standard notifications menu : OBJECTIVE
+	menu access : OBJECTIVE
+camera
+	8MP rear camera : OBJECTIVE
+	better camera : POSITIVE
+	camera app : OBJECTIVE
+	neat camera mode : POSITIVE
+	8-megapixel camera : OBJECTIVE
+display
+	HD display : OBJECTIVE
+	tethered display sharing : POSITIVE
+	wireless display standard : OBJECTIVE
+photo
+	Photo Spots : NEGATIVE
+	photo opps : OBJECTIVE
+device
+	Miracast-certified device : POSITIVE
+	elegant-looking device : POSITIVE
+	LG device : OBJECTIVE
+	unlocked device : NEGATIVE
+	similarly specced device : OBJECTIVE
+	HSPA+ device : OBJECTIVE
+core
+	dual-core Snapdragon S4 : OBJECTIVE
+	1.6GHz quad-core Exynos : OBJECTIVE
+	quad-core Snapdragon S4 : OBJECTIVE
+	new quad-core HD : POSITIVE
+	Nexus quad-core smartphone : OBJECTIVE
+user
+	user experience : OBJECTIVE
+--------------------------- Overall --------------------------
+POSITIVE

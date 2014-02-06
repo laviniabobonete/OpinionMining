@@ -1,0 +1,57 @@
+I have to warn you that I am a fan of Pure Android, I don't feel there is a better Mobile OS out at this time as most lack some features that Android clearly has. With that out of the way, let me say I've been using this phone for about 3 days now as I managed to score one when they went back in stock on the play store.
+
+BUILD QUALITY
+
+The phone itself seems very solid, It features a rubberize metal frame with Gorilla Glass 2 front and back plates. The phone is built much like the iPhone 4 and 4s line and like those phones the Nexus 4 also features a non-removable battery. No real complaints over all with the build quality.
+
+SPECIAL FEATURES
+
+The three biggest features the phone adds, in my opinion, are NFC with Google Wallet support, Wireless Charging, and Wireless display / Mirracast (this might be the first Google Device with Airplay style Screen Redirection).
+
+Google claims that 200,000 locations are now equipped with NFC (Near Field Communication) and setup to use their wallet for payment services. I haven't seen one yet but, I haven't really activated Google Wallet yet either.
+
+Wireless Charging is really cool but, as of right now the optional accessories required for the feature are pretty pricey and I cannot see myself spending $70+ for a piece of hardware to charge my phone when I have the plug that came with it for free. I might consider buying a few of these if they were say, $30 each.
+
+Wireless display has been around awhile and the Android version is Mirracast, this is cool and it is an open standard so more devices than just Google TV will support it. This will be really cool in the future but, right now it is a work in progress.
+
+DISPLAY
+
+I am not somebody who felt that the iPhone display was the best on the market, as it clearly was not and hasn't been in some time... With that said, this phone again took a page from Apple's book as LG went with a 300+ PPI, IPS based Display. After using AMOLED for the past several years, I'm honestly disappointed in the Display. Yes the display is sharp, bright, and overall very nice. However, compared to AMOLED it has poor black levels, color saturation, and battery efficiency. To me, this is a step back from the Galaxy Nexus and it's a shame.
+
+PERFORMANCE
+
+This might be the only quad core S4 Krait based phone in North America (I cannot think of another at this time) and as a result, the CPUs are likely the fastest around (yes faster than the iPhone) but, the use of an Adreno 320 GPU makes it a decent performer but, not the best in terms of Graphics. Overall, a very smooth phone that will not have any issues running the latest apps and games but, it could have been better.
+
+NETWORK PERFORMANCE
+
+The Nexus 4 is an HSPA+42 GSM based phone and for what it is, the performance is great. HSPA+ is good but, it is no LTE so if that matters to you, then steer clear of the Nexus... For me, I use Net10 on the AT&T Network and I really have no issues with the speed as long as I can have unlimited Data for a low fee. This is pretty much a wash until Carriers return unlimited data connections with LTE speeds.
+
+CAMERAS
+
+This is a tough one, I never really think much of the Video-Conference cameras as most get the job down pretty well and the Nexus is no exception. The actual still / video camera on the phone is another issue... I find the camera to be among the best in modest to bright sunlight but, less than ideal in lower light. Of course, just about everyone else has included some form of stabilization in their main cameras and this is sadly something the Nexus is lacking. Overall, they're very good cameras.
+
+SOUND
+
+Sound is solid and I have no complaints, I don't really see this as a strength or a weakness of this phone.
+
+BATTERY LIFE
+
+Wow, this is certainly not the strongest point for the phone! Out of the box, the phone might get you through 8 to 10 hours of heavy intermittent use but, it is not an all day beast by any means. I had to turn off Google's Maps and Latitude Service as that is a huge drain, it is like running Apple's find my phone with the phone reporting in every few minutes and of course turning off the GPS is a must as well. To me, knowing there are no battery cases, and knowing you have some pretty intensive features in the OS would make the non-removable battery a suspect decision. This might be the biggest weakness of the phone.
+
+SOFTWARE
+
+Android Jellybean is simply the best and most feature rich OS on the market and there's not much to add to that. The phone came unlocked and contract free so there's no skins or malware installed on the unit.
+
+Google Hangouts is far better than FaceTime as you can have 9 people on the same video chat at once.
+
+Google Maps trumps Apple Maps by a mile.
+
+Google Chrome much more feature rich than Safari.
+
+Mobile Hot spot, being an unlocked phone makes for an unlocked Hot Spot and that is a huge benefit of this handset.
+
+CONCLUSSION
+
+It is a nice phone but, I really hate that these companies are going so far after the iPhone features that they fail to exclude many of the weaknesses! Samsung was pretty bad at this but, at least they left most of it in software and adjusted for the hardware. With LG creating a phone that has a Glass front / back plate, a sealed battery, and an IPS Display just seems like they've included too many of the negatives of the iPhone and taken a the Nexus line a few steps back in some areas.
+
+Now, let me say I've only been using the phone for a few days but, this isn't my first smartphone. Do I like the phone? Yes, I like it a lot! Do I love the phone? I think it is too early to say, as there certainly are features that are problematic to me.

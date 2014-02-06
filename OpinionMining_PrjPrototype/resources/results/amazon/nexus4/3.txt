@@ -1,0 +1,177 @@
+--------------------------- Keywords and Scores --------------------------
+prices : OBJECTIVE
+pixels : OBJECTIVE
+market : OBJECTIVE
+camera underperforms : OBJECTIVE
+phone : OBJECTIVE
+apps/widgets : OBJECTIVE
+HD video : OBJECTIVE
+game-changer : NEGATIVE
+4G phone : OBJECTIVE
+Old Navy : OBJECTIVE
+lag : OBJECTIVE
+Battery life : OBJECTIVE
+T-Mobile : OBJECTIVE
+Picasa account : OBJECTIVE
+Galaxy Nexus.8 : OBJECTIVE
+Bump : OBJECTIVE
+lock screen : OBJECTIVE
+editing options : OBJECTIVE
+expandable memory : POSITIVE
+downloads : OBJECTIVE
+city : OBJECTIVE
+people : OBJECTIVE
+Android phones : OBJECTIVE
+shipping : OBJECTIVE
+grippy sides : OBJECTIVE
+large-size hands : OBJECTIVE
+12mbps : OBJECTIVE
+best phone : POSITIVE
+issues : OBJECTIVE
+AWS bands : OBJECTIVE
+extended period : OBJECTIVE
+world times : OBJECTIVE
+Google Plus : POSITIVE
+mind : OBJECTIVE
+Photosphere panorama : OBJECTIVE
+profiles : OBJECTIVE
+extended app : OBJECTIVE
+theory : OBJECTIVE
+stuff : OBJECTIVE
+powerful OS : POSITIVE
+gameplaying : OBJECTIVE
+tapered edges : POSITIVE
+NFC tags : OBJECTIVE
+black slab : NEGATIVE
+photo folders : OBJECTIVE
+timer : OBJECTIVE
+Nexus phones : OBJECTIVE
+photo taking : POSITIVE
+Multicolored Notification : OBJECTIVE
+elegance : POSITIVE
+pictures : OBJECTIVE
+elegant phone : POSITIVE
+stopwatch : OBJECTIVE
+doubt : OBJECTIVE
+ball : OBJECTIVE
+Google Wallet : OBJECTIVE
+heavy downloading : OBJECTIVE
+tax : OBJECTIVE
+potential.9 : OBJECTIVE
+good reception spots : POSITIVE
+situation : OBJECTIVE
+widget blows : OBJECTIVE
+games : OBJECTIVE
+bass : NEGATIVE
+buttery : NEGATIVE
+LTE Access Point : OBJECTIVE
+texting/Facebook : OBJECTIVE
+practicality : POSITIVE
+Google Play Store : OBJECTIVE
+apps : OBJECTIVE
+service : OBJECTIVE
+GNexus.4 : OBJECTIVE
+3G phone : OBJECTIVE
+purchasing.1 : OBJECTIVE
+audio recording : OBJECTIVE
+multiple widgets : OBJECTIVE
+Letters : OBJECTIVE
+preferred way : POSITIVE
+previous builds : OBJECTIVE
+water.3 : OBJECTIVE
+GPS mapping trip : OBJECTIVE
+GS3 : OBJECTIVE
+tap the phone and have useful : OBJECTIVE
+clock app : OBJECTIVE
+stuttering : OBJECTIVE
+jagged edges : OBJECTIVE
+live wallpapers : OBJECTIVE
+Macy : OBJECTIVE
+LG : OBJECTIVE
+toggle widget : OBJECTIVE
+LightFlow app : OBJECTIVE
+OfficeMax : OBJECTIVE
+swipe/screen : OBJECTIVE
+course : OBJECTIVE
+device : OBJECTIVE
+case : OBJECTIVE
+SMOOOOOOTHH : OBJECTIVE
+tinny smartphone sound : POSITIVE
+enjoyable handholding experience : POSITIVE
+comfortable phone : OBJECTIVE
+average : NEGATIVE
+Facial unlock : OBJECTIVE
+accurate images : POSITIVE
+Android : OBJECTIVE
+fast updates : OBJECTIVE
+contrast.7 : OBJECTIVE
+perfect phone : POSITIVE
+videos : OBJECTIVE
+Build Quality : POSITIVE
+smooth grippy edging : OBJECTIVE
+grainy : OBJECTIVE
+additional battery drain : OBJECTIVE
+techsnobs : OBJECTIVE
+LTE.The bottom line : OBJECTIVE
+shooter : OBJECTIVE
+useful tool : OBJECTIVE
+crashes : OBJECTIVE
+HSPA+ : OBJECTIVE
+new camera filters : OBJECTIVE
+different frequency : POSITIVE
+nonsense : POSITIVE
+Radioshack : OBJECTIVE
+stock calendar app : OBJECTIVE
+resellers : OBJECTIVE
+Galaxy Nexus : OBJECTIVE
+quick setting shade : OBJECTIVE
+720p : OBJECTIVE
+fault : NEGATIVE
+unique problem : OBJECTIVE
+family member : OBJECTIVE
+calls : OBJECTIVE
+bumper : NEGATIVE
+millage : OBJECTIVE
+speakerphone : OBJECTIVE
+LTE antenna : OBJECTIVE
+1080p : OBJECTIVE
+Glass breaks.2 : OBJECTIVE
+CNET : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	phone : OBJECTIVE
+	4G phone : OBJECTIVE
+	best phone : POSITIVE
+	elegant phone : POSITIVE
+	3G phone : OBJECTIVE
+	tap the phone and have useful : OBJECTIVE
+	comfortable phone : OBJECTIVE
+	perfect phone : POSITIVE
+setting
+	quick setting shade : OBJECTIVE
+battery
+	Battery life : OBJECTIVE
+	additional battery drain : OBJECTIVE
+notification
+	Multicolored Notification : OBJECTIVE
+widget
+	widget blows : OBJECTIVE
+	toggle widget : OBJECTIVE
+video
+	HD video : OBJECTIVE
+screen
+	lock screen : OBJECTIVE
+audio
+	audio recording : OBJECTIVE
+camera
+	camera underperforms : OBJECTIVE
+	new camera filters : OBJECTIVE
+photo
+	photo folders : OBJECTIVE
+	photo taking : POSITIVE
+size
+	large-size hands : OBJECTIVE
+device
+	device : OBJECTIVE
+--------------------------- Overall --------------------------
+POSITIVE

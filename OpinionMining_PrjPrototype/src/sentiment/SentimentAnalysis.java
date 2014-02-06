@@ -19,7 +19,7 @@ public class SentimentAnalysis {
         for(String token: tokens) {
             double localScore = SentiWordNet.getScoreFor(token);
             score += localScore;
-            System.out.print("   " + token + ":" + localScore);
+            //System.out.print("   " + token + ":" + localScore);
         }
         return score;
     }
@@ -30,7 +30,7 @@ public class SentimentAnalysis {
     public Score getScoreFor(Keyword keyword) {
 
         double score = getScoreValueFor(keyword);
-        System.out.print("   Score:" + score + "   ");
+        //System.out.print("   Score:" + score + "   ");
 
         if(score < 0.15 && score > -0.15) {
             return Score.OBJECTIVE;

@@ -1,0 +1,46 @@
+Just some background,
+I am coming from the original Galaxy S i9000, which was the flagship phone of 2010
+I was eagerly awaiting the next nexus device for quite a few months. My previous phone had its screen cracked from a fall around July, and overall, I was starting to get anxious to be back with the latest and greatest, instead of being stuck with a 2+ year old phone.
+
+I just received the phone yesterday evening, so essentially, these points are from the perspective of someone who has been using the phone for less than a day.
+
+Pros
+The build quality of the phone is great.
+It feels like a premium device, despite its no-nonsense, straightforward look. Essentially, the out of box feel was a very pleasant one. This is, of course, a subjective point, but several other friends and co-workers had the same reaction to seeing the physical device, so I think it's safe to say that my opinion on the build quality isn't unique.
+
+Large memory means apps stay open.
+This device has 2 GB of memory. What that means in real world usage is that recently used apps don't seem to close that often. On my old phone, if I was browsing the web, switched to the Message app to send a text, switch to a couple other applications to do other things and then switched back to the browser, the browser would have to reload the page because the other applications kicked it out from memory. That doesn't really happen on this phone. I can't speak for games that are generally larger and take up a lot more memory, but I had up to 20 apps `open' at one point, and was able to quickly switch between them without any of them having to reload.
+
+That leads to the second observation...
+Everything is quick
+This is partly due to the specs of the device - it has a high end quad core processor and gpu so things generally load up very quickly. But also, because of the large memory, most things don't have to reload if you switch to some other task and switch back, so it makes multi-tasking a remarkably quick and enjoyable affair.
+
+Screen is beautiful
+The applications seem to sit directly on the screen, rather than behind it, due to the very little space between the screen and the glass. Coming from a device with an Amoled screen, at first the colours seemed washed out, but after a few hours of allowing your eyes to adjust, you appreciate the beauty of the more natural looking colours, and amoled screens seem loud and over-colorful in comparison.
+
+Cons
+No expandable memory
+This concerns me just a little, but I had a 16gig sd card in my old Galaxy S, and I simply never used used it. At all. And that phone had 8GB of internal memory, so I think I will be ok. But this is the one issue that has me just a tiny bit uneasy
+
+Unlock key hard to reach for a left hander - big annoyance. I know the majority of the world is right handed, but I got used to holding my old phone in my left hand with every button within easy reach due to the size of the device. With the nexus 4, somehow, hitting that power button is just a little bit too difficult to do one-handed.... Not impossible, mind you, but difficult enough that I notice it. This issue may become a non-issue with time as I get used to the device, but it's worth mentioning for any potential left-handed buyers.
+
+The size of the screen is also just a little too big to comfortably use one handed, which again, I will probably get used to, but is annoying enough that I notice it a lot. This isn't only a negative though, because I enjoy the size of the screen when it comes to actually looking at and using the device and would probably appreciate an even bigger one. So, this annoyance is something I'm comfortable ignoring since I prefer the added screen real estate.
+
+No toggle widgets in the notification tray (WiFi, GPS, etc)
+They are reachable via shortcuts, but it would be nice to simply have a simple toggle switch right there in the notification tray. This is not a big deal, just a minor annoyance, but worth pointing out.
+
+Battery life doesn't seem fantastic
+I can't speak for how well the phone really performs battery-wise until I've used it for a couple of weeks, but the initial experience with the battery usage is a bit underwhelming. I'm assuming that once the battery meter is properly calibrated, this will noticeably improve though, so I will update this portion of the review in 2 or 3 weeks.
+
+Finally, no LTE
+This is a non-issue for me, since LTE is not available in my area, but it is worth pointing out for those that have that option that may be disappointed by this news.
+
+Upon looking at the review, one may get the impression that this is a negative review of the Nexus 4. It's not. The performance of this thing is top notch and makes using the phone an absolute pleasure. Everything just works, and coming from the Galaxy S, where the GPS never worked reliably and the I/O performance was flaky resulting in random hiccups in the user interface, it's definitely been a huge pleasure to switch to this device.
+
+I can't say that it is a device without compromises, but the performance of it makes the tradeoffs of no LTE or expandable storage a no-brainer decision for myself. Unless LTE is important, or you know that 16 GB is just not enough storage, I cannot recommend this device any more heartily.
+
+Update: Looking back after 2 months of use, without a doubt, this was a great purchase.
+It is well performing device, and does it so effortlessly that i no longer even notice how well it performs, until i use another phone as a comparison point.
+The size of the device no longer bothers me - after spending some time with it, i can now comfortably use it one-handed, and do so 90% of the time.
+The power button issue also has gone away as i've gotten used to its location and how best to reach it while holding the phone one-handed.
+Up until last week, the battery life was still nothing to talk about, but the recent update to 4.2.2 seems to have changed that in a very positive way. I generally unplug my phone around 6 am in the morning, and usually, i would plug it back in to charge for an hour or so at some point during the day to ensure it will last for my 30 minute walk home. This week, after getting the update, i seem to be getting home comfortably with about 30% battery remaining, without that midday charge, which is great. So, if that holds up, the battery life will also cease to be an issue.

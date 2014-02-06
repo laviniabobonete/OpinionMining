@@ -1,0 +1,163 @@
+--------------------------- Keywords and Scores --------------------------
+build quality.SPECIAL FEATURESThe : OBJECTIVE
+lower light : OBJECTIVE
+each.Wireless display : OBJECTIVE
+unlocked Hot Spot : NEGATIVE
+poor black levels : NEGATIVE
+mile.Google Chrome : OBJECTIVE
+Krait : OBJECTIVE
+phone reporting : OBJECTIVE
+devices : OBJECTIVE
+unlimited data connections : NEGATIVE
+unit.Google Hangouts : OBJECTIVE
+course : OBJECTIVE
+way : OBJECTIVE
+box : OBJECTIVE
+Video-Conference cameras : OBJECTIVE
+claims : OBJECTIVE
+iPhone display : OBJECTIVE
+Gorilla Glass : OBJECTIVE
+Wireless Charging : OBJECTIVE
+biggest features : OBJECTIVE
+somebody : OBJECTIVE
+issues : OBJECTIVE
+cameras.SOUNDSound : OBJECTIVE
+video chat : OBJECTIVE
+suspect decision : OBJECTIVE
+AMOLED : OBJECTIVE
+phone : OBJECTIVE
+malware : OBJECTIVE
+battery cases : OBJECTIVE
+stock : OBJECTIVE
+job : OBJECTIVE
+LTE speeds.CAMERASThis : OBJECTIVE
+Android version : OBJECTIVE
+either.Wireless Charging : OBJECTIVE
+progress.DISPLAYI : OBJECTIVE
+better Mobile OS : POSITIVE
+step : OBJECTIVE
+IPS Display : OBJECTIVE
+AT&T Network : OBJECTIVE
+bright sunlight : POSITIVE
+PPI : OBJECTIVE
+locations : OBJECTIVE
+fan : OBJECTIVE
+issue : OBJECTIVE
+rubberize metal frame : OBJECTIVE
+unlocked phone makes : NEGATIVE
+Wireless display : OBJECTIVE
+hardware : OBJECTIVE
+Adreno : OBJECTIVE
+contract : OBJECTIVE
+CPUs : OBJECTIVE
+Field Communication : OBJECTIVE
+Maps trumps Apple : OBJECTIVE
+NFC : OBJECTIVE
+Google Device : OBJECTIVE
+FaceTime : OBJECTIVE
+weaknesses : OBJECTIVE
+non-removable battery : NEGATIVE
+video camera : OBJECTIVE
+LG : OBJECTIVE
+HSPA+42 GSM : OBJECTIVE
+nice phone : POSITIVE
+wash : OBJECTIVE
+Mirracast : OBJECTIVE
+Graphics : OBJECTIVE
+Google TV : OBJECTIVE
+latest apps : OBJECTIVE
+real complaints : OBJECTIVE
+huge benefit : POSITIVE
+Pure Android : POSITIVE
+phones : OBJECTIVE
+smartphone : OBJECTIVE
+phone.BATTERY LIFEWow : OBJECTIVE
+Airplay style Screen : POSITIVE
+Safari.Mobile Hot spot : OBJECTIVE
+battery efficiency : OBJECTIVE
+strongest point : OBJECTIVE
+future : OBJECTIVE
+store.BUILD QUALITYThe phone : OBJECTIVE
+better.NETWORK PERFORMANCEThe Nexus : OBJECTIVE
+smooth phone : OBJECTIVE
+Redirection : OBJECTIVE
+low fee : OBJECTIVE
+companies : OBJECTIVE
+market : OBJECTIVE
+sealed battery : OBJECTIVE
+North America : OBJECTIVE
+handset.CONCLUSSIONIt : OBJECTIVE
+stabilization : OBJECTIVE
+piece : OBJECTIVE
+Nexus line : OBJECTIVE
+skins : OBJECTIVE
+payment services : OBJECTIVE
+games : OBJECTIVE
+Galaxy Nexus : OBJECTIVE
+Latitude Service : NEGATIVE
+GPU : OBJECTIVE
+Samsung : OBJECTIVE
+terms : OBJECTIVE
+Google Wallet support : OBJECTIVE
+negatives : OBJECTIVE
+phone.SOFTWAREAndroid Jellybean : OBJECTIVE
+time : OBJECTIVE
+huge drain : NEGATIVE
+feature rich OS : POSITIVE
+main cameras : POSITIVE
+color saturation : OBJECTIVE
+pretty intensive features : POSITIVE
+quad core : OBJECTIVE
+page : OBJECTIVE
+exception : NEGATIVE
+optional accessories : OBJECTIVE
+plug : OBJECTIVE
+people : OBJECTIVE
+unlimited data : NEGATIVE
+biggest weakness : NEGATIVE
+open standard : NEGATIVE
+--------------------------- Review results --------------------------
+phone
+	phone reporting : OBJECTIVE
+	phone : OBJECTIVE
+	unlocked phone makes : NEGATIVE
+	nice phone : POSITIVE
+	store.BUILD QUALITYThe phone : OBJECTIVE
+	smooth phone : OBJECTIVE
+hardware
+	hardware : OBJECTIVE
+amoled
+	AMOLED : OBJECTIVE
+battery
+	battery cases : OBJECTIVE
+	non-removable battery : NEGATIVE
+	battery efficiency : OBJECTIVE
+	sealed battery : OBJECTIVE
+features
+	biggest features : OBJECTIVE
+	pretty intensive features : POSITIVE
+feature
+	feature rich OS : POSITIVE
+video
+	Video-Conference cameras : OBJECTIVE
+	video chat : OBJECTIVE
+	video camera : OBJECTIVE
+gpu
+	GPU : OBJECTIVE
+screen
+	Airplay style Screen : POSITIVE
+support
+	Google Wallet support : OBJECTIVE
+camera
+	video camera : OBJECTIVE
+display
+	each.Wireless display : OBJECTIVE
+	iPhone display : OBJECTIVE
+	IPS Display : OBJECTIVE
+	Wireless display : OBJECTIVE
+device
+	Google Device : OBJECTIVE
+core
+	quad core : OBJECTIVE
+--------------------------- Overall --------------------------
+NEGATIVE

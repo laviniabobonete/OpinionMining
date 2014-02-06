@@ -1,0 +1,370 @@
+--------------------------- Keywords and Scores --------------------------
+features ad nauseam : OBJECTIVE
+T-Mobile unit : OBJECTIVE
+data performance : OBJECTIVE
+black model : OBJECTIVE
+Group Play : OBJECTIVE
+Galaxy Tab : OBJECTIVE
+flagship Galaxy device : OBJECTIVE
+Samsung phone camera : OBJECTIVE
+IrDA-clad devices : NEGATIVE
+best scene : POSITIVE
+particular feature.Most : OBJECTIVE
+Lock screen widgets : OBJECTIVE
+fabulous camera features : POSITIVE
+Air View : OBJECTIVE
+actual UX problems : OBJECTIVE
+advanced capacitive touchscreen : OBJECTIVE
+screen brightness : POSITIVE
+little usefulness : OBJECTIVE
+Black Mist : NEGATIVE
+easy access : OBJECTIVE
+faux-chrome edge : NEGATIVE
+time : OBJECTIVE
+CPU features Krait : OBJECTIVE
+GS4 rear camera : OBJECTIVE
+motion-based features : OBJECTIVE
+cool feature : OBJECTIVE
+GS4 units : OBJECTIVE
+Group Cast : OBJECTIVE
+particular feature : OBJECTIVE
+Super AMOLED screen : POSITIVE
+early-2013 flagship phone : OBJECTIVE
+pretty huge deal : OBJECTIVE
+home button : OBJECTIVE
+minimal learning curve : OBJECTIVE
+design flow : OBJECTIVE
+Adapt Display : POSITIVE
+notification bar : OBJECTIVE
+TouchWiz version : OBJECTIVE
+LTE bands : OBJECTIVE
+assembly lines : OBJECTIVE
+GS4 launch event : OBJECTIVE
+mode we ll discuss is Animated Photo . : POSITIVE
+main viewfinder : POSITIVE
+Smart features : NEGATIVE
+global GSM roaming : NEGATIVE
+master unit : POSITIVE
+LG Optimus : OBJECTIVE
+best Samsung device : POSITIVE
+brand-new features : OBJECTIVE
+white unit : OBJECTIVE
+natural color : OBJECTIVE
+terrible camcorder replacement : NEGATIVE
+Best Photo : POSITIVE
+optional back cover : OBJECTIVE
+OEM Android devices : OBJECTIVE
+clever camera option : POSITIVE
+solid imaging module : POSITIVE
+higher-res screen : POSITIVE
+video stop : OBJECTIVE
+large library : OBJECTIVE
+69-degree angular field : OBJECTIVE
+app menu : OBJECTIVE
+Air Browse : NEGATIVE
+possible way : POSITIVE
+mainstream global models : NEGATIVE
+Best Face : POSITIVE
+n't seem to do much good if you : POSITIVE
+LTE antenna : OBJECTIVE
+older Samsung device : POSITIVE
+design team : OBJECTIVE
+beautiful display : POSITIVE
+stock Android keyboard : OBJECTIVE
+best use cases : POSITIVE
+post-production features : OBJECTIVE
+2.1-megapixel front-facing camera : OBJECTIVE
+different modes : POSITIVE
+possible aspect : POSITIVE
+Snapdragon model.As : OBJECTIVE
+feature Samsung : OBJECTIVE
+possible sets : POSITIVE
+Adapt Sound : POSITIVE
+flagship phones : OBJECTIVE
+GS4 launches : OBJECTIVE
+special features : OBJECTIVE
+older Samsung phones : POSITIVE
+particular smartphone : OBJECTIVE
+ultra-sensitive display : OBJECTIVE
+Samsung Video apps : OBJECTIVE
+recent version : POSITIVE
+Samsung advertises : OBJECTIVE
+1080p Super AMOLED : OBJECTIVE
+unbranded GS4 : NEGATIVE
+dual shutter buttons : POSITIVE
+smartphone industry : OBJECTIVE
+great-looking images : POSITIVE
+HTC One. : OBJECTIVE
+black version : NEGATIVE
+natural light : OBJECTIVE
+T-Mobile model : POSITIVE
+Nokia Lumia : OBJECTIVE
+standard bar code : OBJECTIVE
+quad-band LTE : OBJECTIVE
+multiple entertainment systems : OBJECTIVE
+high-grade aluminum : OBJECTIVE
+Frost White : OBJECTIVE
+4.8-inch predecessor : OBJECTIVE
+extra sensitivity mode : OBJECTIVE
+completely different way : POSITIVE
+1.9GHz Qualcomm Snapdragon : OBJECTIVE
+darker-hued versions : OBJECTIVE
+blue GS3. : NEGATIVE
+exact time : POSITIVE
+TouchWiz enthusiasts : OBJECTIVE
+best results : POSITIVE
+greatest flagship : POSITIVE
+new camera modes : OBJECTIVE
+long way : OBJECTIVE
+Pen features : OBJECTIVE
+Samsung : OBJECTIVE
+global Android domination : NEGATIVE
+five-second video clip : POSITIVE
+specific apps : OBJECTIVE
+phones.The Galaxy : OBJECTIVE
+Snapdragon S4 chipset : OBJECTIVE
+new devices : OBJECTIVE
+phone maker : OBJECTIVE
+better camera : POSITIVE
+brand-new software gimmicks : OBJECTIVE
+Play Movies : OBJECTIVE
+offer quad-band GSM : OBJECTIVE
+crisp text : POSITIVE
+partnership Samsung : OBJECTIVE
+new software features : OBJECTIVE
+TouchWiz skin : OBJECTIVE
+aforementioned devices : OBJECTIVE
+visual appeal : OBJECTIVE
+particular model : POSITIVE
+useful feature : OBJECTIVE
+Galaxy Note series : OBJECTIVE
+new version : OBJECTIVE
+successful marketing campaigns : POSITIVE
+completely different language : POSITIVE
+settings notification bar : OBJECTIVE
+Air Gesture : OBJECTIVE
+great camera make : POSITIVE
+learning curve : OBJECTIVE
+potential buyers : NEGATIVE
+standard notification bar : OBJECTIVE
+new tech : OBJECTIVE
+GSM / EDGE : OBJECTIVE
+removable battery cell : POSITIVE
+different surround sound : POSITIVE
+P2P networking tool : OBJECTIVE
+larger display : POSITIVE
+entire unibody chassis.One : OBJECTIVE
+introduction thanks : OBJECTIVE
+GS3 : OBJECTIVE
+images : OBJECTIVE
+best example : POSITIVE
+run-of-the-mill phone video : OBJECTIVE
+camera UI : OBJECTIVE
+wow factor.The feature : POSITIVE
+LTE area : OBJECTIVE
+T-Mobile versions : OBJECTIVE
+physically attractive package : POSITIVE
+Play Store : OBJECTIVE
+past-gen flagship : NEGATIVE
+stabilization feature : OBJECTIVE
+low-light performance : OBJECTIVE
+GS4 : OBJECTIVE
+wide assortment : OBJECTIVE
+best work : POSITIVE
+design shift : OBJECTIVE
+razzle-dazzle features : POSITIVE
+pretty solid setup : POSITIVE
+camera view : OBJECTIVE
+glossy device : POSITIVE
+closer look : OBJECTIVE
+everyday performance : POSITIVE
+flagship devices : OBJECTIVE
+screen : OBJECTIVE
+little extra personality : NEGATIVE
+new app : OBJECTIVE
+8-megapixel camera modules : OBJECTIVE
+it.The GS4 : OBJECTIVE
+pebble look : OBJECTIVE
+faux-chrome edges : NEGATIVE
+new features Samsung : OBJECTIVE
+low light : NEGATIVE
+regular light : OBJECTIVE
+skinnier bezels : OBJECTIVE
+stylus-like device : OBJECTIVE
+white review unit : OBJECTIVE
+GS4 zoom : OBJECTIVE
+particular screen : POSITIVE
+network performance : OBJECTIVE
+Samsung Music : POSITIVE
+Gorilla Glass : OBJECTIVE
+self-publishing outfit Blurb : OBJECTIVE
+comparable flagship phones : POSITIVE
+great smartphone : POSITIVE
+solid aluminum build : OBJECTIVE
+quick access : OBJECTIVE
+new ways : OBJECTIVE
+highly touted GS4 : POSITIVE
+auto brightness tool : OBJECTIVE
+better battery life : POSITIVE
+large number : OBJECTIVE
+Oz-style floating cloud : NEGATIVE
+smartphone displays : OBJECTIVE
+pop-up screen : POSITIVE
+GS4 reign supreme : POSITIVE
+Galaxy Camera : OBJECTIVE
+Samsung Galaxy : OBJECTIVE
+flagship model : POSITIVE
+Super AMOLED display : POSITIVE
+plastic construction : OBJECTIVE
+confusing settings menu : NEGATIVE
+standard camera mode : OBJECTIVE
+5-inch GS4 : OBJECTIVE
+Air Jump : OBJECTIVE
+HTC : OBJECTIVE
+slightly raised camera : OBJECTIVE
+Daydream screen saver : NEGATIVE
+better job : POSITIVE
+menu key : OBJECTIVE
+Photo Sphere : OBJECTIVE
+vertical screen space : POSITIVE
+brushed-metal look : OBJECTIVE
+little smartphone series : NEGATIVE
+Optimus G Pro : OBJECTIVE
+favorite features : POSITIVE
+spiffy feature : POSITIVE
+phone act : OBJECTIVE
+period Android fans : OBJECTIVE
+dimly lit area : POSITIVE
+third-party developers : OBJECTIVE
+volume rocker : OBJECTIVE
+long-standing tradition : OBJECTIVE
+best Samsung handset : POSITIVE
+LTE compatibility : OBJECTIVE
+ad-hoc WiFi hotspot : OBJECTIVE
+difficult time : NEGATIVE
+Smart Scroll : NEGATIVE
+S4 Pro : OBJECTIVE
+unique camera modes : POSITIVE
+brand-new firmware amenities : OBJECTIVE
+carrier logo T-Mobile : OBJECTIVE
+hard time : OBJECTIVE
+company : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	Samsung phone camera : OBJECTIVE
+	early-2013 flagship phone : OBJECTIVE
+	phone maker : OBJECTIVE
+	run-of-the-mill phone video : OBJECTIVE
+	phone act : OBJECTIVE
+settings
+	settings notification bar : OBJECTIVE
+	confusing settings menu : NEGATIVE
+amoled
+	Super AMOLED screen : POSITIVE
+	1080p Super AMOLED : OBJECTIVE
+	Super AMOLED display : POSITIVE
+software
+	brand-new software gimmicks : OBJECTIVE
+	new software features : OBJECTIVE
+button
+	home button : OBJECTIVE
+performance
+	data performance : OBJECTIVE
+	low-light performance : OBJECTIVE
+	everyday performance : POSITIVE
+	network performance : OBJECTIVE
+battery
+	removable battery cell : POSITIVE
+	better battery life : POSITIVE
+features
+	features ad nauseam : OBJECTIVE
+	fabulous camera features : POSITIVE
+	CPU features Krait : OBJECTIVE
+	motion-based features : OBJECTIVE
+	Smart features : NEGATIVE
+	brand-new features : OBJECTIVE
+	post-production features : OBJECTIVE
+	special features : OBJECTIVE
+	Pen features : OBJECTIVE
+	new software features : OBJECTIVE
+	razzle-dazzle features : POSITIVE
+	new features Samsung : OBJECTIVE
+	favorite features : POSITIVE
+notification
+	notification bar : OBJECTIVE
+	settings notification bar : OBJECTIVE
+	standard notification bar : OBJECTIVE
+feature
+	cool feature : OBJECTIVE
+	particular feature : OBJECTIVE
+	feature Samsung : OBJECTIVE
+	useful feature : OBJECTIVE
+	wow factor.The feature : POSITIVE
+	stabilization feature : OBJECTIVE
+	spiffy feature : POSITIVE
+video
+	video stop : OBJECTIVE
+	Samsung Video apps : OBJECTIVE
+	five-second video clip : POSITIVE
+	run-of-the-mill phone video : OBJECTIVE
+music
+	Samsung Music : POSITIVE
+screen
+	Lock screen widgets : OBJECTIVE
+	screen brightness : POSITIVE
+	Super AMOLED screen : POSITIVE
+	higher-res screen : POSITIVE
+	screen : OBJECTIVE
+	particular screen : POSITIVE
+	pop-up screen : POSITIVE
+	Daydream screen saver : NEGATIVE
+	vertical screen space : POSITIVE
+keyboard
+	stock Android keyboard : OBJECTIVE
+scroll
+	Smart Scroll : NEGATIVE
+menu
+	app menu : OBJECTIVE
+	confusing settings menu : NEGATIVE
+	menu key : OBJECTIVE
+camera
+	Samsung phone camera : OBJECTIVE
+	fabulous camera features : POSITIVE
+	GS4 rear camera : OBJECTIVE
+	clever camera option : POSITIVE
+	2.1-megapixel front-facing camera : OBJECTIVE
+	new camera modes : OBJECTIVE
+	better camera : POSITIVE
+	great camera make : POSITIVE
+	camera UI : OBJECTIVE
+	camera view : OBJECTIVE
+	8-megapixel camera modules : OBJECTIVE
+	Galaxy Camera : OBJECTIVE
+	standard camera mode : OBJECTIVE
+	slightly raised camera : OBJECTIVE
+	unique camera modes : POSITIVE
+cpu
+	CPU features Krait : OBJECTIVE
+display
+	Adapt Display : POSITIVE
+	beautiful display : POSITIVE
+	ultra-sensitive display : OBJECTIVE
+	larger display : POSITIVE
+	Super AMOLED display : POSITIVE
+photo
+	mode we ll discuss is Animated Photo . : POSITIVE
+	Best Photo : POSITIVE
+	Photo Sphere : OBJECTIVE
+wifi
+	ad-hoc WiFi hotspot : OBJECTIVE
+device
+	flagship Galaxy device : OBJECTIVE
+	best Samsung device : POSITIVE
+	older Samsung device : POSITIVE
+	glossy device : POSITIVE
+	stylus-like device : OBJECTIVE
+smart
+	Smart features : NEGATIVE
+	Smart Scroll : NEGATIVE
+--------------------------- Overall --------------------------
+POSITIVE

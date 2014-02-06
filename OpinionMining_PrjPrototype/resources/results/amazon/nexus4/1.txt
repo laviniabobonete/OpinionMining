@@ -1,0 +1,192 @@
+--------------------------- Keywords and Scores --------------------------
+logical sense : POSITIVE
+monthly payments : OBJECTIVE
+jellybean : OBJECTIVE
+high quality games : POSITIVE
+**Update : OBJECTIVE
+Network data speeds : OBJECTIVE
+busy work schedule : POSITIVE
+movies/tv : OBJECTIVE
+SF Matte Black : NEGATIVE
+screen : OBJECTIVE
+/month : OBJECTIVE
+monthly tax : OBJECTIVE
+rough estimates : NEGATIVE
+best experience : POSITIVE
+Amazon instant videos : OBJECTIVE
+Issues : OBJECTIVE
+new phone : OBJECTIVE
+connection : OBJECTIVE
+actual sharpness : POSITIVE
+iphone-5 : OBJECTIVE
+IOS religious fanatics : OBJECTIVE
+different story : POSITIVE
+color tint : POSITIVE
+dollars : OBJECTIVE
+good replacement : POSITIVE
+brainer : OBJECTIVE
+Android devices : OBJECTIVE
+negative point : NEGATIVE
+potential embarrassment : NEGATIVE
+car : OBJECTIVE
+tests : OBJECTIVE
+sales tax : OBJECTIVE
+maths : OBJECTIVE
+helpful review button : POSITIVE
+LG Google Nexus : OBJECTIVE
+genuine bug : OBJECTIVE
+flash freeze : OBJECTIVE
+protective case : OBJECTIVE
+models : OBJECTIVE
+wifi : OBJECTIVE
+Premium Hard Case : OBJECTIVE
+good point : POSITIVE
+Qcom : OBJECTIVE
+initial downpayment : OBJECTIVE
+instance : POSITIVE
+decent speeds : POSITIVE
+fair comparison : OBJECTIVE
+bad deal.Camera Quality : OBJECTIVE
+kindle : OBJECTIVE
+bumper : NEGATIVE
+mind : OBJECTIVE
+contracts factor : OBJECTIVE
+convergence : OBJECTIVE
+cycle : OBJECTIVE
+old TV : OBJECTIVE
+cases : OBJECTIVE
+Rearth Ringke SLIM : POSITIVE
+contract options : OBJECTIVE
+support : OBJECTIVE
+best Android flavor : POSITIVE
+HSPA+ network : OBJECTIVE
+slippery surfaces : NEGATIVE
+plus points : POSITIVE
+ECO Package : OBJECTIVE
+console brethren : POSITIVE
+mini HDMI : OBJECTIVE
+Miracast adapters : OBJECTIVE
+smartphones : OBJECTIVE
+great state : POSITIVE
+display : OBJECTIVE
+larger size : OBJECTIVE
+lengthy reviews : OBJECTIVE
+soft feel : OBJECTIVE
+older generation TV : POSITIVE
+latest upgrade : POSITIVE
+***The pricing difference : NEGATIVE
+amazing price point : POSITIVE
+tendency : POSITIVE
+camera app : OBJECTIVE
+google play store : OBJECTIVE
+couple : OBJECTIVE
+Android Jelly Bean : OBJECTIVE
+slimport HDMI adapter : OBJECTIVE
+people : OBJECTIVE
+custom devices : POSITIVE
+NFC tags : OBJECTIVE
+future software : OBJECTIVE
+appropriate antennas : OBJECTIVE
+Netflix.The : OBJECTIVE
+Nexus-4 : OBJECTIVE
+phenomenal Thanks : POSITIVE
+average customer : NEGATIVE
+specific action : OBJECTIVE
+Guess : OBJECTIVE
+pick : OBJECTIVE
+gaming console : POSITIVE
+Bought : OBJECTIVE
+higher tax : POSITIVE
+DSLR quality : POSITIVE
+Version : OBJECTIVE
+latest buzzword : OBJECTIVE
+NFC payments : OBJECTIVE
+contrast : OBJECTIVE
+official charger : OBJECTIVE
+brief summary : OBJECTIVE
+smart phones : NEGATIVE
+camera bug : OBJECTIVE
+TV. : OBJECTIVE
+total cost : OBJECTIVE
+volume button : OBJECTIVE
+cell phone plans : OBJECTIVE
+google play : OBJECTIVE
+Iphone camera : OBJECTIVE
+iphone cult : OBJECTIVE
+set : OBJECTIVE
+amazon app : OBJECTIVE
+image : OBJECTIVE
+good phone : POSITIVE
+saturation : OBJECTIVE
+mat/surface : OBJECTIVE
+Texas : OBJECTIVE
+multiple reviewers : OBJECTIVE
+phone : OBJECTIVE
+course : OBJECTIVE
+CDMA networks : OBJECTIVE
+micro usb : OBJECTIVE
+source : OBJECTIVE
+wait : OBJECTIVE
+apps : OBJECTIVE
+Verizon : OBJECTIVE
+blue camera button : NEGATIVE
+4G : OBJECTIVE
+engine horse power : OBJECTIVE
+right time : POSITIVE
+instant videos : OBJECTIVE
+sun : OBJECTIVE
+HDMI port : OBJECTIVE
+hard back case : OBJECTIVE
+total price : OBJECTIVE
+scratches : OBJECTIVE
+best speeds : POSITIVE
+standard price : OBJECTIVE
+talk : OBJECTIVE
+contract price : OBJECTIVE
+marketing strategy.d : OBJECTIVE
+browser : NEGATIVE
+battery life : OBJECTIVE
+similar plans : OBJECTIVE
+wireless plans : OBJECTIVE
+nice things : POSITIVE
+picture : OBJECTIVE
+T-mobile : OBJECTIVE
+research online : OBJECTIVE
+monthly plan : OBJECTIVE
+Amazon prime instant : POSITIVE
+AT&T LTE : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	new phone : OBJECTIVE
+	cell phone plans : OBJECTIVE
+	good phone : POSITIVE
+	phone : OBJECTIVE
+software
+	future software : OBJECTIVE
+button
+	helpful review button : POSITIVE
+	volume button : OBJECTIVE
+	blue camera button : NEGATIVE
+battery
+	battery life : OBJECTIVE
+screen
+	screen : OBJECTIVE
+support
+	support : OBJECTIVE
+camera
+	camera app : OBJECTIVE
+	camera bug : OBJECTIVE
+	Iphone camera : OBJECTIVE
+	blue camera button : NEGATIVE
+display
+	display : OBJECTIVE
+size
+	larger size : OBJECTIVE
+soft
+	soft feel : OBJECTIVE
+wifi
+	wifi : OBJECTIVE
+smart
+	smart phones : NEGATIVE
+--------------------------- Overall --------------------------
+POSITIVE

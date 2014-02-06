@@ -1,0 +1,151 @@
+--------------------------- Keywords and Scores --------------------------
+little space : NEGATIVE
+midday charge : OBJECTIVE
+tradeoffs : OBJECTIVE
+impression : OBJECTIVE
+apps : OBJECTIVE
+n't seem fantasticI ca : OBJECTIVE
+expandable memoryThis concerns : POSITIVE
+Amoled screen : OBJECTIVE
+bit uneasyUnlock key : OBJECTIVE
+non-issue : NEGATIVE
+box : OBJECTIVE
+previous phone : OBJECTIVE
+easy reach : POSITIVE
+estate.No toggle widgets : OBJECTIVE
+specs : OBJECTIVE
+open.This device : OBJECTIVE
+simple toggle : OBJECTIVE
+user interface : OBJECTIVE
+physical device : OBJECTIVE
+big deal : OBJECTIVE
+old phone.I : OBJECTIVE
+bit underwhelming : OBJECTIVE
+web : OBJECTIVE
+left hand : OBJECTIVE
+old phone : OBJECTIVE
+nexus device : OBJECTIVE
+browser : NEGATIVE
+evening : OBJECTIVE
+initial experience : OBJECTIVE
+out.Battery life : OBJECTIVE
+points : OBJECTIVE
+positive way : POSITIVE
+feels : OBJECTIVE
+huge pleasure : OBJECTIVE
+WiFi : OBJECTIVE
+phone : OBJECTIVE
+big annoyance : NEGATIVE
+unique.Large memory : OBJECTIVE
+I/O performance : OBJECTIVE
+real world usage : NEGATIVE
+reaction : OBJECTIVE
+news.Upon : OBJECTIVE
+friends : OBJECTIVE
+left hander : OBJECTIVE
+GPS : OBJECTIVE
+natural looking colours : OBJECTIVE
+LTE : OBJECTIVE
+notch : OBJECTIVE
+observation : OBJECTIVE
+GB : OBJECTIVE
+little bit : NEGATIVE
+high end quad : OBJECTIVE
+perspective : OBJECTIVE
+Message app : OBJECTIVE
+recent update : POSITIVE
+no-brainer decision : NEGATIVE
+absolute pleasure : OBJECTIVE
+notification tray : OBJECTIVE
+internal memory : OBJECTIVE
+battery usage : OBJECTIVE
+16gig sd card : OBJECTIVE
+page : OBJECTIVE
+negative review : NEGATIVE
+LTEThis : OBJECTIVE
+i9000 : OBJECTIVE
+majority : OBJECTIVE
+screen : OBJECTIVE
+core processor : OBJECTIVE
+original Galaxy : OBJECTIVE
+beauty : POSITIVE
+text : OBJECTIVE
+issue : OBJECTIVE
+device : OBJECTIVE
+subjective point : OBJECTIVE
+heartily.Update : OBJECTIVE
+battery life : OBJECTIVE
+available in my area but it : POSITIVE
+shortcuts : OBJECTIVE
+flagship phone : OBJECTIVE
+things : OBJECTIVE
+gpu : OBJECTIVE
+great purchase.It : POSITIVE
+games : OBJECTIVE
+compromises : OBJECTIVE
+power button : OBJECTIVE
+large memory : OBJECTIVE
+random hiccups : OBJECTIVE
+minor annoyance : NEGATIVE
+walk home : OBJECTIVE
+glass : OBJECTIVE
+battery meter : OBJECTIVE
+premium device : POSITIVE
+expandable storage : POSITIVE
+annoying enough that I notice it a lot . : NEGATIVE
+build quality : POSITIVE
+straightforward look : OBJECTIVE
+couple other applications : NEGATIVE
+phone one-handed.Up : OBJECTIVE
+8GB : OBJECTIVE
+enjoyable affair.Screen : POSITIVE
+course : OBJECTIVE
+location : OBJECTIVE
+bothers : OBJECTIVE
+time.The power button : OBJECTIVE
+co-workers : OBJECTIVE
+old Galaxy : OBJECTIVE
+comparison point.The size : NEGATIVE
+--------------------------- Review results --------------------------
+phone
+	previous phone : OBJECTIVE
+	old phone : OBJECTIVE
+	phone : OBJECTIVE
+	flagship phone : OBJECTIVE
+	phone one-handed.Up : OBJECTIVE
+amoled
+	Amoled screen : OBJECTIVE
+button
+	power button : OBJECTIVE
+	time.The power button : OBJECTIVE
+performance
+	I/O performance : OBJECTIVE
+battery
+	battery usage : OBJECTIVE
+	battery life : OBJECTIVE
+	battery meter : OBJECTIVE
+notification
+	notification tray : OBJECTIVE
+gpu
+	gpu : OBJECTIVE
+screen
+	Amoled screen : OBJECTIVE
+	screen : OBJECTIVE
+size
+	comparison point.The size : NEGATIVE
+wifi
+	WiFi : OBJECTIVE
+device
+	open.This device : OBJECTIVE
+	physical device : OBJECTIVE
+	nexus device : OBJECTIVE
+	device : OBJECTIVE
+	premium device : POSITIVE
+core
+	core processor : OBJECTIVE
+user
+	user interface : OBJECTIVE
+storage
+	expandable storage : POSITIVE
+--------------------------- Overall --------------------------
+NEGATIVE

@@ -1,0 +1,315 @@
+--------------------------- Keywords and Scores --------------------------
+USB OTG : OBJECTIVE
+Android OS : OBJECTIVE
+service fee : OBJECTIVE
+access MicroSD cards : OBJECTIVE
+combined app : OBJECTIVE
+better system.Google : POSITIVE
+walled garden : OBJECTIVE
+big memory user : OBJECTIVE
+vertical boxes : OBJECTIVE
+generation Nexus : OBJECTIVE
+slight boost : OBJECTIVE
+options.Image stabilization : OBJECTIVE
+stock Google Dalvik : NEGATIVE
+constant gaming : OBJECTIVE
+total price : OBJECTIVE
+huge amounts : OBJECTIVE
+high end phone : OBJECTIVE
+GB device : OBJECTIVE
+home screen.Icon sizes : OBJECTIVE
+average users : NEGATIVE
+Sprint : OBJECTIVE
+USB Hosting OTG : OBJECTIVE
+Download Google Voice : OBJECTIVE
+Absorption Bumper : NEGATIVE
+app screen : OBJECTIVE
+certain apps.Sound quality : POSITIVE
+glass backing : OBJECTIVE
+people : OBJECTIVE
+Lumia : OBJECTIVE
+Aio service : OBJECTIVE
+sufficient voltage : NEGATIVE
+Android verse Apple : OBJECTIVE
+night shots : OBJECTIVE
+supply : OBJECTIVE
+turboprop engine.There : OBJECTIVE
+MicroSD slot : OBJECTIVE
+removable battery : POSITIVE
+SMS : OBJECTIVE
+standard USB : OBJECTIVE
+notification center : OBJECTIVE
+Tegra : OBJECTIVE
+Group texting : OBJECTIVE
+television screen : OBJECTIVE
+best possible shot : POSITIVE
+device manufacturers : OBJECTIVE
+tear down which gave it : OBJECTIVE
+Gmail accounts : OBJECTIVE
+opinion : NEGATIVE
+carriers.The launcher : OBJECTIVE
+minimal interface : OBJECTIVE
+myriad plans : NEGATIVE
+specific Nexus : OBJECTIVE
+Hynix : OBJECTIVE
+talk time : OBJECTIVE
+GPS : OBJECTIVE
+best simple comparison : POSITIVE
+single nice webpage : POSITIVE
+adequate camera : OBJECTIVE
+bad signal : NEGATIVE
+red flashing : NEGATIVE
+BOYD Nexus : OBJECTIVE
+pixel density : OBJECTIVE
+big carrier plans : OBJECTIVE
+battery life : OBJECTIVE
+mobile benchmarks : OBJECTIVE
+phone screams : OBJECTIVE
+affordable unlocked price : NEGATIVE
+Verizon : OBJECTIVE
+Google search : OBJECTIVE
+difference : NEGATIVE
+1.3 megapixel : OBJECTIVE
+camera : OBJECTIVE
+prepaid options : OBJECTIVE
+Japanese Screen Protector : OBJECTIVE
+slim-port compatibility : POSITIVE
+Gmail group chats : OBJECTIVE
+flush buttons : OBJECTIVE
+real criticism : NEGATIVE
+non-gamers : NEGATIVE
+microUSB connection : OBJECTIVE
+USB connection : OBJECTIVE
+primary network : POSITIVE
+capable hardware : OBJECTIVE
+Gorilla Glass : OBJECTIVE
+black rectangle : NEGATIVE
+unresponsive lag : NEGATIVE
+big change : OBJECTIVE
+FPS benchmarks : OBJECTIVE
+Touch 4th generation : OBJECTIVE
+Apps load : OBJECTIVE
+mileage : OBJECTIVE
+straight usage : OBJECTIVE
+unlimited 3G : NEGATIVE
+specific parts : OBJECTIVE
+extremely stock version : POSITIVE
+AT&T : OBJECTIVE
+mAh : OBJECTIVE
+inherent problems : OBJECTIVE
+office : OBJECTIVE
+Eco/DIY Pkg. : OBJECTIVE
+Clear Back Panel : POSITIVE
+unlocked phone : NEGATIVE
+device very simple : POSITIVE
+point : OBJECTIVE
+iPad : OBJECTIVE
+GHz quadcore processor : OBJECTIVE
+user repair : OBJECTIVE
+lengthy Nexus : OBJECTIVE
+Nexus devices : OBJECTIVE
+settings : OBJECTIVE
+Easy file movement : OBJECTIVE
+Nexus : OBJECTIVE
+light design : OBJECTIVE
+professional reviews : OBJECTIVE
+drag method : OBJECTIVE
+photo gallery.When : OBJECTIVE
+low price : OBJECTIVE
+LTE bands : OBJECTIVE
+topics : OBJECTIVE
+right program access : OBJECTIVE
+updates : OBJECTIVE
+great affordable option. : POSITIVE
+T-Mobile : OBJECTIVE
+Nexus line : OBJECTIVE
+face drop test : OBJECTIVE
+Bumper Case : NEGATIVE
+extremely fantastic job : POSITIVE
+long time Nexus : OBJECTIVE
+Android : OBJECTIVE
+Google Now function : OBJECTIVE
+Nexus Media Importer : OBJECTIVE
+device fee : OBJECTIVE
+okay camera : POSITIVE
+Run Time ART : POSITIVE
+nerd talk : NEGATIVE
+widgets : OBJECTIVE
+higher volumes : POSITIVE
+GB Sandisk NAND : OBJECTIVE
+model : POSITIVE
+8/10 : OBJECTIVE
+subsidy recovery fees : OBJECTIVE
+S800 Pro : OBJECTIVE
+stock Android : OBJECTIVE
+compatible device : POSITIVE
+compact design : OBJECTIVE
+files : OBJECTIVE
+text messaging : OBJECTIVE
+better clarity : POSITIVE
+Nexus 4.Screen : OBJECTIVE
+real damage : NEGATIVE
+price.Right : OBJECTIVE
+Case ULTRA HYBRID : OBJECTIVE
+default keyboard : OBJECTIVE
+iPhone Plans Comparison : OBJECTIVE
+USB Hosting : OBJECTIVE
+house : OBJECTIVE
+Spigen Google Nexus : OBJECTIVE
+microphone.Connects : OBJECTIVE
+Low light : NEGATIVE
+fighter jet engine : OBJECTIVE
+power USB Hosting : OBJECTIVE
+Qualcomm S800 Pro : OBJECTIVE
+image quality : POSITIVE
+FREE Graphics Anti-Scratch : NEGATIVE
+phone bills : OBJECTIVE
+Adreno : OBJECTIVE
+big mobile gamer : OBJECTIVE
+changes : OBJECTIVE
+Anti Scratch Clear : NEGATIVE
+white version : OBJECTIVE
+Graininess : OBJECTIVE
+reputable brands : POSITIVE
+weather notifications Facebook : NEGATIVE
+performance : OBJECTIVE
+mind.The best deal : POSITIVE
+Android phones : OBJECTIVE
+graphics chip : OBJECTIVE
+removable storage device : POSITIVE
+DDR3 : OBJECTIVE
+bloatware : OBJECTIVE
+Operating : OBJECTIVE
+ART nets : OBJECTIVE
+flash light : NEGATIVE
+markup : OBJECTIVE
+quality hardware : POSITIVE
+Carrier Support : OBJECTIVE
+non-contract carriers : NEGATIVE
+local HSPA+ : OBJECTIVE
+overkill.Microphone : OBJECTIVE
+request information : OBJECTIVE
+Kitkat : OBJECTIVE
+iFixit : OBJECTIVE
+pure Android : POSITIVE
+Premium Hybrid Case : POSITIVE
+nearly complete customization : POSITIVE
+lock screen : OBJECTIVE
+medium end devices : OBJECTIVE
+section : OBJECTIVE
+Black SGP10609 : NEGATIVE
+screen guard : OBJECTIVE
+generic smartphone plans : OBJECTIVE
+phone : OBJECTIVE
+personal preference : POSITIVE
+stock meaning : OBJECTIVE
+lighting issues : OBJECTIVE
+new function : OBJECTIVE
+unlimited text : NEGATIVE
+Jelly bean : OBJECTIVE
+Android Honeycomb : OBJECTIVE
+software/hardware combination : OBJECTIVE
+huge reason : OBJECTIVE
+USB device : OBJECTIVE
+monthly billings : OBJECTIVE
+speaker : OBJECTIVE
+standby usage : POSITIVE
+weak LTE signal : OBJECTIVE
+ECO-Friendly Package : POSITIVE
+heart : OBJECTIVE
+USB Hosting/OTG : OBJECTIVE
+timeline : OBJECTIVE
+urban speed : OBJECTIVE
+head : OBJECTIVE
+biggest killer : NEGATIVE
+wrong here.TLDR : NEGATIVE
+impact resistance.Side bezels : OBJECTIVE
+panel.The phone : OBJECTIVE
+LG/Google : OBJECTIVE
+GB RAM chip : OBJECTIVE
+Hangouts change : OBJECTIVE
+app library : OBJECTIVE
+MPT : OBJECTIVE
+relatively affordable prices : OBJECTIVE
+Best Selling Shock : POSITIVE
+Dashclock Widget : OBJECTIVE
+soft plastic backing : OBJECTIVE
+recent Nexus devices : POSITIVE
+colors : OBJECTIVE
+brand user : OBJECTIVE
+fast processor : OBJECTIVE
+wholesale NAND prices : POSITIVE
+RINGKE FUSION : OBJECTIVE
+screen information : POSITIVE
+memory chip : OBJECTIVE
+America. : OBJECTIVE
+simple plan : OBJECTIVE
+Mbp/s : OBJECTIVE
+vast majority : OBJECTIVE
+wireless charger : OBJECTIVE
+ideological issues : OBJECTIVE
+camera fixes : OBJECTIVE
+--------------------------- Review results --------------------------
+phone
+	high end phone : OBJECTIVE
+	phone screams : OBJECTIVE
+	unlocked phone : NEGATIVE
+	phone bills : OBJECTIVE
+	phone : OBJECTIVE
+	panel.The phone : OBJECTIVE
+users
+	average users : NEGATIVE
+hardware
+	capable hardware : OBJECTIVE
+	quality hardware : POSITIVE
+settings
+	settings : OBJECTIVE
+search
+	Google search : OBJECTIVE
+performance
+	performance : OBJECTIVE
+battery
+	removable battery : POSITIVE
+	battery life : OBJECTIVE
+notification
+	notification center : OBJECTIVE
+widget
+	Dashclock Widget : OBJECTIVE
+screen
+	app screen : OBJECTIVE
+	television screen : OBJECTIVE
+	Japanese Screen Protector : OBJECTIVE
+	lock screen : OBJECTIVE
+	screen guard : OBJECTIVE
+	screen information : POSITIVE
+keyboard
+	default keyboard : OBJECTIVE
+support
+	Carrier Support : OBJECTIVE
+speed
+	urban speed : OBJECTIVE
+camera
+	adequate camera : OBJECTIVE
+	camera : OBJECTIVE
+	okay camera : POSITIVE
+	camera fixes : OBJECTIVE
+photo
+	photo gallery.When : OBJECTIVE
+soft
+	soft plastic backing : OBJECTIVE
+device
+	GB device : OBJECTIVE
+	device manufacturers : OBJECTIVE
+	device very simple : POSITIVE
+	device fee : OBJECTIVE
+	compatible device : POSITIVE
+	removable storage device : POSITIVE
+	USB device : OBJECTIVE
+user
+	big memory user : OBJECTIVE
+	user repair : OBJECTIVE
+	brand user : OBJECTIVE
+storage
+	removable storage device : POSITIVE
+--------------------------- Overall --------------------------
+POSITIVE

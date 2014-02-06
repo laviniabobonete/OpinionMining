@@ -16,15 +16,14 @@ import java.util.Map;
 
 public class ReviewExtraction {
 
-    private String DIR_PATH =  System.getProperty("user.dir") + "\\resources\\results\\";
-    private String FILE_NAME;
+    private String fileName;
 
     private String data;
     private Map<Keyword, Score> keywords;
     private Map<String, List<Keyword>> results;
 
     public ReviewExtraction(String fileName) {
-        FILE_NAME = fileName;
+        this.fileName = fileName;
 
         keywords = new HashMap<Keyword, Score>();
         results = new HashMap<String, List<Keyword>>();
@@ -52,7 +51,10 @@ public class ReviewExtraction {
     }
 
     public void printResults() {
-        String filePath = DIR_PATH + "\\" + FILE_NAME;
+        String filePath = fileName.replaceFirst("reviews", "results");
+
+        int positives = 0;
+        int negatives = 0;
 
         try{
 
@@ -62,6 +64,14 @@ public class ReviewExtraction {
             for (Map.Entry<Keyword, Score> entry : keywords.entrySet()) {
                 Keyword key = entry.getKey();
                 Score score = entry.getValue();
+
+                if(Score.POSITIVE.equals(score)) {
+                    positives ++;
+                }
+                if(Score.NEGATIVE.equals(score)) {
+                    negatives ++;
+                }
+
 
                 file.write((key.getText() + " : " + score + "\n").getBytes());
             }
@@ -78,6 +88,10 @@ public class ReviewExtraction {
                 }
             }
 
+            file.write("--------------------------- Overall --------------------------\n".getBytes());
+            Score finalScore = positives > negatives ? Score.POSITIVE : Score.NEGATIVE;
+            file.write(finalScore.name().getBytes());
+
             file.close();
         } catch (Exception ex) {
             ex.printStackTrace();
@@ -85,7 +99,7 @@ public class ReviewExtraction {
     }
 
     private void loadData() {
-        this.data = DataRetrieval.getData(FILE_NAME);
+        this.data = DataRetrieval.getData(fileName);
     }
 
     private List<String> getCharacteristics() {

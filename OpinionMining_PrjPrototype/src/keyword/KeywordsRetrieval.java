@@ -1,6 +1,7 @@
 package keyword;
 
 import com.alchemyapi.api.AlchemyAPI;
+import com.alchemyapi.api.AlchemyAPI_KeywordParams;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
@@ -30,8 +31,11 @@ public class KeywordsRetrieval {
             // Create an AlchemyAPI object.
             AlchemyAPI alchemyObj = AlchemyAPI.GetInstanceFromFile(KEY_PATH);
 
+            AlchemyAPI_KeywordParams alchemyAPI_keywordParams = new AlchemyAPI_KeywordParams();
+            alchemyAPI_keywordParams.setMaxRetrieve(1000);
+
             // Extract topic keywords for a text string.
-            Document doc = alchemyObj.TextGetRankedKeywords(text);
+            Document doc = alchemyObj.TextGetRankedKeywords(text, alchemyAPI_keywordParams);
 
             // Extract keywords from dom
             NodeList nList = doc.getElementsByTagName("keyword");
